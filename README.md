@@ -1,3 +1,4 @@
-# My Awesome Book
+# PHS Engineering Resources
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Here's a book with random resources, and knowledge to help become a better engineer meant for anyone, but made particularly for students at PHS, \(mainly students in PHSCRC, SciOly, other engineering clubs\)
+
