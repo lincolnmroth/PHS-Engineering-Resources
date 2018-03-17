@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Youtube Channels](chapter1.md)
 * [Facebook Groups](facebook-groups.md)
-* Electronics
+* [Electronics](electronics.md)
 * [Robotics](robotics.md)
 * 3D Printing
 * CAD
