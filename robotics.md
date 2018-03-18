@@ -139,5 +139,23 @@ The last option I'll touch on are BLDC, or Brushless DC Motors. These are the be
 
 ### Motion Systems:
 
-Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world.
+Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world. 
+
+#### Actuators:
+
+Motions systems clearly have to move, or else they wouldn't be motion systems, so they need actuators of some sort. Actuators are just anything that can be controlled to move.
+
+The four main type of actuators are electric, pneumatic, hydraulic, and combustion.
+
+##### Electric:
+
+
+
+##### Pneumatic:
+
+##### Hydraulic:
+
+##### Combustion:
+
+
 
