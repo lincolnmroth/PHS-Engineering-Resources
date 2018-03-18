@@ -7,8 +7,9 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 * ##### Electronics
 
   * [Adafruit](https://www.youtube.com/channel/UCpOlOeQjj7EsVnDh3zuCgsA%29 %28adafruit.com\) is an electronics manufacturer that makes great harware but more importantly has great guides on how to use all their hardware so it’s really easy to get started
-  * Allen Pan/[Sufficiently Advanced](https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A%29 is a youtube maker that makes fictitious objects from movies. Has really entertaining videos but are also very inspirational. Similar to Mythbusters %28He tried out for the new mythbusters but didn’t get the job :%28 \)
-  * [Becky Stern](https://www.youtube.com/channel/UCsI_41SZafKtB5qE46WjlQQ%29 does a lot of creative electronics projects, pretty education, has good guides on how she did her projects %28I think she works for instructables\)
+  * Allen Pan/[Sufficiently Advanced ](https://www.youtube.com/channel/UCVS89U86PwqzNkK2qYNbk5A)is a youtube maker that makes fictitious objects from movies. Has really entertaining videos but are also very inspirational. Similar to Mythbusters \(He tried out for the new mythbusters but didn’t get the job :\( \)
+  * [Becky Stern](https://www.youtube.com/channel/UCsI_41SZafKtB5qE46WjlQQ) does a lot of creative electronics projects, pretty education, has good guides on how she did her projects \(I think she works for instructables\)
+
   * [EEVblog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ\) is by far the best electronics youtube channel, very high level, long videos but extremely educational
   * [Electroboom](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA\) is another one of the top electronics youtube channels, manages to be very educational while also being very funny and easy to understand
   * [Make:](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg\) is a making magazine but also has some great youtube content
@@ -17,7 +18,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [ODrive](https://www.youtube.com/channel/UC0vmOsLFTCTsaYcL2PmWscA\) is an opensource project that makes an affordable bldc servo driver
   * [The ben heck show](https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA\) is a show where Ben Heck builds electronics, I’m not a huge fan of the channel, but they occasionaly have some interesting videos
   * [The hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ\) is an all around making channel that makes things from movies real
-  * [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw%29 is probably my favorite channel on youtube. He’s really funny and occasionally educational\)
+  * [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw) is probably my favorite channel on youtube. He’s really funny and occasionally educational\)
 * ##### 3D Printing
 
   * [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ), is a great channel for getting into 3d Printing, hes not very techincal but he’s very entertaining
@@ -134,9 +135,9 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 
 * [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) has some good science videos
 
-**          
+**            
 **
 
-**          
+**            
 **
 
