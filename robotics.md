@@ -139,7 +139,7 @@ The last option I'll touch on are BLDC, or Brushless DC Motors. These are the be
 
 ### Motion Systems:
 
-Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world. 
+Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world.
 
 #### Actuators:
 
@@ -149,13 +149,51 @@ The four main type of actuators are electric, pneumatic, hydraulic, and combusti
 
 ##### Electric:
 
+I briefly went over some different types of electric motors above, but there are many more. I'll try and cover some of the popular ones that I did not mention above.
 
+* Stepper motors
+* Non-continous rotation servos
+* Linear motors
+
+###### Stepper Motors:
+
+![](/assets/steppers.png)
+
+* Stepper motors are very slow, have high torque and have accurate positioning.[ Heres](https://www.youtube.com/watch?v=bkqoKWP4Oy4) how they work.
+* They are frequently used in CNC \(Computer Numerical Control, I'll go more into that in another article\) Machines like 3D Printers, laser cutters, or CNC Mills. 
+* Frequently come in .9 or 1.8 degree varieties.
+* Frequently use the NEMA standard, which tells you the dimensions of the front plate. Many 3d printers use NEMA 17, while bigger machines like CNC Mills will use much beefier motors.
+
+###### Non-continuous rotation servos:
+
+![](/assets/servo1.png)
+
+![](/assets/servohowworks.png)
+
+* Non-continuos servos can only rotate 180 degrees, but can be told what angle to go to
+* They could be used in very cheap robot arms, or used to control flaps on an airplane.
+
+###### Linear Motors:
+
+![](/assets/linearmotor.png)
+
+Linear motors are kinda weird. They work as if you cut a motor and unraveled it to make it straight. These are very expensive, and I will reccomend some other easier ways of getting linear motion later on.
 
 ##### Pneumatic:
 
+Pneumatic actuators do not use electric power, they use a compressed gas, \(typically co2 or n2\). Pneumatici actuators can either be linear or rotary. They are much more expensive to use, and they require a compressor to power them, but they are extremely quick, and also have a lot of power. These are used a lot in high performance robots, like the ones from Boston Dynamics.
+
+![](/assets/pneumatic.png)
+
 ##### Hydraulic:
 
+Hydraulic actuators are similar to pneumatics except they use a liquid instead of a gas. These are how things like bulldozers move their armatures.
+
+![](/assets/hydraulics.png)
+
 ##### Combustion:
+
+Combustion engines are what are used in cars/lawnmotors and that kinda stuff. Don't use them in robotics. Ever. It's not 1980, use one of the other types I've mentioned.
 
 
 
