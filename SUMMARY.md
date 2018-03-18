@@ -14,6 +14,7 @@
 * Software \(general\)
 * [Construction Skills](construction-skills.md)
 * Flight
+* Hackerbot
 
 ## Projects
 

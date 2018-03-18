@@ -4,3 +4,5 @@ Here's a book with random resources, and knowledge to help become a better engin
 
 I'm going to try and do as little explanation myself and outsource it to other places since I'm bad at explaining things.
 
+Feel free to make a change request and add whatever you want!
+

@@ -2,8 +2,6 @@
 
 Solar vehicle was a trial event for Science Olympiad 2017-18, which means we only had 2 months to prepare.
 
-
-
 \***Warning**\*
 
 This is the worst thing I have ever built. I am terribly sorry.
@@ -22,5 +20,5 @@ I ended up taking a solar panel phone charger and cutting it up to get one of th
 
 Somehow it kinda worked and got 11th place, which is pretty good for the amount of work I put in. If i had time to actually engineer something, it could have been much, much better.
 
-
+-Lincoln
 

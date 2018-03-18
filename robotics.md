@@ -129,7 +129,7 @@ There are many different varieties but they are all controlled the same way.
 
 ##### BLDC Motors:
 
-The last option I'll touch on are BLDC, or Brushless DC Motors. These are the best motors to use, but they are also the most expensive. Also they need expensive drivers, ESC's \(Electronic Speed Controllers\), to control them.
+The last option I'll touch on are BLDC, or Brushless DC Motors. These are the best motors to use, but they are also the most expensive. Also they need expensive drivers, ESC's \(Electronic Speed Controllers\), to control them. They are pretty torquey but are insanely fast \(Hundreds of thousands of rpm\), so when used for drive systems, they are frequently faired with a gearbox.
 
 ![](/assets/import6.png)These are used in applications such as electric skateboards, drones, and rc planes, as well as many industrial applications.
 
@@ -140,6 +140,4 @@ The last option I'll touch on are BLDC, or Brushless DC Motors. These are the be
 ### Motion Systems:
 
 Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world.
-
-
 
