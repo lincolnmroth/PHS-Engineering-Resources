@@ -2,6 +2,8 @@
 
 So robotics is a pretty broad topic and there's a lot of information, so I'll try to focus on more general topics.
 
+Also, I'm not going to try and explain physics, since my physics knowledge is rather limited. If you want to learn physics, go watch walter lewin on youtube, his lectures are straight up magic.
+
 ### Anatomy of a robot:
 
 So robots have a few main systems that together make the entire robot.
