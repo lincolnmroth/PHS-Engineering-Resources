@@ -71,7 +71,6 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 * ##### CAD
 
   * ##### [Makers muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg) who I also put in 3d printing has some amazing tutorials on how to use Fusion360
-
 * ##### Robotics
 
   * [Boston Dynamics](https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ) makes some awesome robots, not particularly educational, but amazing
@@ -91,6 +90,8 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [Robowars australia](https://www.youtube.com/channel/UCVEp15yu3q_YT3908XlFhdw) is an old channel \(no videos in a while\) is an old chanel of Angus the current creator of Makers Muse, and has great educational content about combat robotics
 
   * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) is the queen of shitty robots, and thats what she builds. Fairly educational, very funny
+
+  * Not a youtube channel but [Charles Guan's blog](http://www.etotheipiplusone.net/) is amazing, and I would highly recommend reading it.
 * ##### Computer building
 
   * [Linus tech tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) is a huge channel that has great videos about building computers
@@ -133,9 +134,9 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 
 * [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) has some good science videos
 
-**        
+**          
 **
 
-**        
+**          
 **
 
