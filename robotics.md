@@ -185,7 +185,7 @@ Linear motors are kinda weird. They work as if you cut a motor and unraveled it 
 
 Pneumatic actuators do not use electric power, they use a compressed gas, \(typically co2 or n2\). Pneumatici actuators can either be linear or rotary. They are much more expensive to use, and they require a compressor to power them, but they are extremely quick, and also have a lot of power. These are used a lot in high performance robots, like the ones from Boston Dynamics.
 
-![](/assets/pneumatic.png)
+#### ![](/assets/pneumatic.png)
 
 ##### Hydraulic:
 
@@ -196,6 +196,25 @@ Hydraulic actuators are similar to pneumatics except they use a liquid instead o
 ##### Combustion:
 
 Combustion engines are what are used in cars/lawnmotors and that kinda stuff. Don't use them in robotics. Ever. It's not 1980, use one of the other types I've mentioned.
+
+#### Transmission:
+
+This is how the power from your actuators get tranferred, or transmitted, to other parts of your robots.
+
+Here are some of the most common types of transmission:
+
+* Gears
+* Belts
+* Chains
+* Linkages
+* Crank
+* Cams
+
+##### Gears:
+
+[Heres](http://khkgears.net/new/gear_knowledge/introduction_to_gears/types_of_gears.html) a list of gear types, but I'll go over the main ones.
+
+
 
 
 
