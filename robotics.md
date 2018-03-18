@@ -137,5 +137,9 @@ The last option I'll touch on are BLDC, or Brushless DC Motors. These are the be
 
 [Heres an article on them](https://www.roboticstomorrow.com/article/2016/10/brushless-motors-whats-the-big-difference/9025/)
 
+### Motion Systems:
+
+Motion systems are, in my opinion, the most important part of a robot. They are what will make your robot special and be able to interact with the real world.
+
 
 
