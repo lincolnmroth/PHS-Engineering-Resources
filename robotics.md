@@ -157,6 +157,8 @@ I briefly went over some different types of electric motors above, but there are
 * Non-continous rotation servos
 * Linear motors
 
+Also there are solenoids which aren't motors, but whatever.
+
 ###### Stepper Motors:
 
 ![](/assets/steppers.png)
@@ -180,6 +182,12 @@ I briefly went over some different types of electric motors above, but there are
 ![](/assets/linearmotor.png)
 
 Linear motors are kinda weird. They work as if you cut a motor and unraveled it to make it straight. These are very expensive, and I will reccomend some other easier ways of getting linear motion later on.
+
+###### Solenoids:
+
+solenoids are just electromagnets, which can be used for many applications. They are frequently used to change state of a system. For example, they can be used to make an electrical connection, or as a valve for liquid or gas.
+
+![](/assets/solenoid.png)
 
 ##### Pneumatic:
 
@@ -206,15 +214,61 @@ Here are some of the most common types of transmission:
 * Gears
 * Belts
 * Chains
+* Screws
 * Linkages
 * Crank
 * Cams
+* DIfferentials
 
 ##### Gears:
 
+One thing to keep into consideration when choosing gears is the material. If you have two gears, it is a good idea to make the cheaper/easier to replace gear out of a softer material, so that if there is any grinding or slipping, it is not impossible to replace your damaged gears.
+
+Also never design your own gears, all reasonable CAD programs have gear functionality built in.
+
 [Heres](http://khkgears.net/new/gear_knowledge/introduction_to_gears/types_of_gears.html) a list of gear types, but I'll go over the main ones.
 
+##### Spur gears:
 
+Spur gears are your most standard type of gear, and they are used for changing speed and torque.
+
+![](/assets/spur.png)
+
+If you want to increase the speed output, attach a large gear to your motor, and then engage that with a smaller gear. Do that the opposite way to increase torque.
+
+##### Bevel gears:
+
+![](/assets/bevel.png)
+
+Bevel gears change the direction of your output, and if you use different sizes, they can have the same effect as spur gears.
+
+##### Screw gears:
+
+![](/assets/screwgear.png)
+
+Screw gears also change direction like bevel, but one very important feature of screw gears is that they can only be driven in one way. This makes it very good for certain applications. Also screw gears slow down the output and increase torque.
+
+##### Rack and Pinion gears:
+
+Rack and pinions convert rotary motion into linear or vice-versa.![](/assets/rackandpinion.png)
+
+##### Planetary gears:
+
+Planetary gears are a great way have a large gear reduction in a very compact area.
+
+![](/assets/planetary.png)
+
+They are used in drills, for example.
+
+##### Helical gears:
+
+Helical gears are just a subset of any other gear type.
+
+![](/assets/helicalgears.png)
+
+If you have the choice, always go with helical gears, as they can handle much more torque than standard gears.
+
+##### Belts:
 
 
 
