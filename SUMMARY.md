@@ -14,7 +14,6 @@
 * Software \(general\)
 * [Construction Skills](construction-skills.md)
 * Flight
-* Hackerbot
 
 ## Projects
 
@@ -30,6 +29,7 @@
 * [Electric Vehicle 2016-17](electric-vehicle-2016-17.md)
 * [Robot Arm 2015-16](robot-arm-2015-16.md)
 * [Robot Arm 2016-17](robot-arm-2016-17.md)
+* Hackerbot
 
 ## Organization
 
