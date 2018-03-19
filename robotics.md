@@ -270,5 +270,66 @@ If you have the choice, always go with helical gears, as they can handle much mo
 
 ##### Belts:
 
+Belts are pretty much just flexible rack and pinion gears, that sometimes don't have teeth.They can be used in a spur gear like fasion, or to translate rotary motion into linear motion.
+
+Belts can be toothed or un-toothed, toothed do not allow for slipping, while un-toothed allow for slipping. So if you wanted to use belts in a precise application like a 3d printer, you would want the toothed variety. The un-toothed variety would work better in something like a combat robot where things get hit around, and slipping is okay.
+
+Here is a belt used in a spur like configuration:
+
+![](/assets/beltgear.png)
+
+Here is a linear belt configuration:
+
+![](/assets/beltactuator.png)
+
+##### The name for circles in the diagram above are timing pulleys, they are what the belts go around.
+
+When dealing with belts, one very important thing to take note of is tension. If the belt is too loose, it will slip, but a too tight belt will cause issues as well. 
+
+Belts are frequently used to drive lightweight objects \(like a 3d printer or a camera slider\), or when slipping is necessary \(combat robotics\)
+
+The most common type of belt used in 3D Printers are GT2 belts, which have a 2mm pitch \(thickness\). But even within GT2, there are different types of belts. Most belts are rubber, but they are usually reinforced with either fiberglass or steel strands. Fiberglass reinforced allows for a more flexible belt, but steel core belts don't stretch as much.
+
+##### Chains:
+
+Chains are similar to toothed belts, except that they are metal and can handle much more torque.
+
+If you are curious about chain nomenclature, [heres](http://www.martinsprocket.com/docs/nomenclature/nomenclature/sprocket.pdf) a nice cheatsheet.
+
+![](/assets/twochains.png)
+
+##### Screws:
+
+Screws are another way of transmiting rotational motion into linear motion. Here are the 3 main types of screw drives.
+
+[Heres an article about screw drives.](http://reprap.org/wiki/Threaded_rod)
+
+###### Threaded Rod and nut:
+
+Don't. Use. These. Ever. I'll explain them anyway.
+
+Threaded rods are the most basic type of screw drive, they have one helix around the outside of a rod, and the accompanying nut has one helical cutaway.
+
+![](/assets/threadedrod.png)
+
+###### Trapezoidal Rod and nut:
+
+Trapezoidal rods are much much better. First they have a leading edge to make engaging with a nut easier, and also they have 4 helixes instead of one.  
+One downside they have \(threaded rods have it, just much worse\) is backlash. I'm not sure how to explain backlash, so I'll let [this guy](http://www.liutaiomottola.com/Tools/Backlash.htm#mozTocId246078) do it.
+
+###### Ball Screw:
+
+Ball screws are amazing, and the best screws. They are kinda expensive though. It's hard to explain how they work without a picture, so here's a picture:![](/assets/ballscrew.png)
+
+They have recurculating balls which allow for no backlash. One thing to make sure you never do is take the nut off the screw or you'll have a few hundred balls on the floor.
+
+##### Linkages:
+
+
+
+###### 
+
+
+
 
 
