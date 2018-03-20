@@ -30,7 +30,5 @@ As I had a rather busy start to my junior year, I did not start working on hover
 
 In conclusion, I'm very disappointed with how hovercraft went, and a few simple changes would have made it much better.
 
-
-
--Lincoln
+-lmr
 
