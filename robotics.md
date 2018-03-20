@@ -284,7 +284,7 @@ Here is a linear belt configuration:
 
 ##### The name for circles in the diagram above are timing pulleys, they are what the belts go around.
 
-When dealing with belts, one very important thing to take note of is tension. If the belt is too loose, it will slip, but a too tight belt will cause issues as well. 
+When dealing with belts, one very important thing to take note of is tension. If the belt is too loose, it will slip, but a too tight belt will cause issues as well.
 
 Belts are frequently used to drive lightweight objects \(like a 3d printer or a camera slider\), or when slipping is necessary \(combat robotics\)
 
@@ -325,9 +325,40 @@ They have recurculating balls which allow for no backlash. One thing to make sur
 
 ##### Linkages:
 
+Linkage is a very broad term, so here's how [wikipedia](https://en.wikipedia.org/wiki/Linkage_%28mechanical%29) describes it: A mechanical linkage is an assembly of bodies connected to manage forces and movement. Basically, linkages are a way of linking objects together.
+
+Here is a really cool use of linkages. It's called a strandbeest, It was created by a guy named Theo Janson \(I think\) out of pvc, duct tape and glue.
+
+![](/assets/strandbeest.png)
+
+One type of linkage to be aware of are ball linkages, which allow linear motion to be transmited without a rigid angle.
+
+![](/assets/balllinkage.png)  
+These are used in 3d printers that use the delta kinematics system \(I'll go over this in the 3d printing article\)
+
+##### Crank:
+
+Cranks are another way of translating rotational motion into linear. These are very frequetly used in everything from fishing rods to car engines.
 
 
-###### 
+
+![](/assets/crank.png)
+
+Cranks have the shaft, called the crankshaft, which is attached at an offset to a linear rod, which is then moved back and forth.
+
+##### Cams:
+
+Cams are similar to cranks, except they are not attacked to the linear portion, they kinda just push the linear portion when rotating:
+
+![](/assets/cam.png)
+
+##### Differentials:
+
+Differentials allow for cars to turn because it allows the inner wheels to spin slower than the outer.
+
+Differentials are super cool. I'm not going to explain gear differentials since [this video](https://www.youtube.com/watch?v=yYAw79386WI) which looks like it was made 50 years ago is amazing.
+
+There are also ball differentials, which are kinda weird. [Here's](https://en.wikipedia.org/wiki/Ball_differential) the wikipedia article on them. I would not recommend, since they are very difficult, and gear differentials are much better.
 
 
 
