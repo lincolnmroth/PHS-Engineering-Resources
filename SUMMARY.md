@@ -11,10 +11,10 @@
 * CAD
 * Laser Cutting
 * CNC
-* Software \(general\)
+* [Software \(general\)](software-general.md)
 * [Construction Skills](construction-skills.md)
 * Flight
-* Manufacturing
+* [Manufacturing](manufacturing.md)
 
 ## Projects
 
