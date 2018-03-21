@@ -1,10 +1,10 @@
 # Mission Possible 2017-18
 
-Mission Possible was an event in Science Olympiad in 2018
-It involved building a Rube Goldberg machine to complete a set series of tasks
+Mission Possible was an event in Science Olympiad in 2018  
+It involved building a Rube Goldberg machine to complete a set series of tasks  
 
-Mission was easily the largest time investment for building in 2018
-The number of tasks and the limitations made the event extremely challenging
+Mission was easily the largest time investment for building in 2018  
+The number of tasks and the limitations made the event extremely challenging  
 
 ![](/assets/missionPossible/mission2018.jpg)
 
@@ -62,22 +62,22 @@ Mission was rather bad in 2018. The difficulty and time commitment required for 
 
 ### Notes for the Future
 
-Hook up the battery first if there is a one battery bonus, it makes testing 10x easier.
-Try to use household chemicals, rather than lab chemicals from teachers- makes trial runs and safety issues painless
-Completing a circuit is vague in rules- can be with buttons or switches
-Read the rules very carefully- someone lost an action because of an ordering issue- their weight didn't lift 10 cm before activating the next action, losing them points
-Unified design- everyone needs to know what to do
-Actions first- if its early on and a unified design hasn't been done, people can build individual actions and worry about transitions later
-Space is not the winning factor- many missions were somewhat bulky, although ours was on the large side- try to get small materials, but its not a priority
-Timing action is also non-essential- chemical timing actions are a pain in the ass and I would recommend taking the point loss
-Cram as many actions as possible in early- try not to miss anything if you can
-Scioly has glassware if you need chemicals
-Try making a list of actions and just writing what you might be able to do, see what sticks
-3D printing everything is not the best idea- airtight things do not need to be printed, and often a non-printed solution will work just as well
-You can borrow weights from Higgins (but try to return them)
-This event will wreck your health, both physical and mental
-Balloons and hot glue form nice seals- would recommend
-Aluminum foil is good for completing circuits- but is hard to work with, would not recommend
+Hook up the battery first if there is a one battery bonus, it makes testing 10x easier.  
+Try to use household chemicals, rather than lab chemicals from teachers- makes trial runs and safety issues painless  
+Completing a circuit is vague in rules- can be with buttons or switches  
+Read the rules very carefully- someone lost an action because of an ordering issue- their weight didn't lift 10 cm before activating the next action, losing them points  
+Unified design- everyone needs to know what to do  
+Actions first- if its early on and a unified design hasn't been done, people can build individual actions and worry about transitions later  
+Space is not the winning factor- many missions were somewhat bulky, although ours was on the large side- try to get small materials, but its not a priority  
+Timing action is also non-essential- chemical timing actions are a pain in the ass and I would recommend taking the point loss  
+Cram as many actions as possible in early- try not to miss anything if you can  
+Scioly has glassware if you need chemicals  
+Try making a list of actions and just writing what you might be able to do, see what sticks  
+3D printing everything is not the best idea- airtight things do not need to be printed, and often a non-printed solution will work just as well  
+You can borrow weights from Higgins (but try to return them)  
+This event will wreck your health, both physical and mental  
+Balloons and hot glue form nice seals- would recommend  
+Aluminum foil is good for completing circuits- but is hard to work with, would not recommend  
 
 
 
