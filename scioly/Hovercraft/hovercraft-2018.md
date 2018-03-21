@@ -6,7 +6,7 @@ This hovercraft was built for the Science Olympiad event Hovercraft in 2017-18.
 
 I didn't spend much time designing this \(which ended up proving to be a HUGE mistake\), because our hovercraft from the previous year was pretty good. My basic plan was this: keep everything from the previous year and swap the LiPo \(Lithium Polymer\) battery for a NiMh \(Nickel-Metal Hydride\), as LiPo's were not allowed in this year's competiition.
 
-[Here](http://a360.co/2FSZ7D1) is the rudimentary CAD model I threw together in September.![](/assets/Science_Olympiad/2018/Hovercraft/hovercraftCAD.png)
+[Here](http://a360.co/2FSZ7D1) is the rudimentary CAD model I threw together in September.![](/assets/Science-Olympiad/2018/Hovercraft/hovercraftCAD.png)
 
 Basically I had one hover fan blowing downward and one for propelling the craft forward.
 

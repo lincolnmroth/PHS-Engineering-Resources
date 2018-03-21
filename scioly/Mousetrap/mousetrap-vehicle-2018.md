@@ -10,11 +10,11 @@ I went through two main design iterations for Mousetrap. My first one was a very
 
 I built the design I had very soon before regionals the first competition the mousetrap was at. The first issue I ran into was that my design would not run at all. My first design had one mousetrap powering each axle in opposite directions, but it ended up that once the first mousetrap finished, it locked the axle in place not allowing for the other mousetrap to move the vehicle. I fixed that by  changing the direction switching mechanism to being wrapped around a screw driven into the axle to change the direction of the winds. I ran into some more issues where It would not go far enough. I ended up getting lucky at regionals and placed 6th. I was decently happy with this placement, but I was not happy with the design, as it was very hard to align the bearing and the wheels, and nothing worked without putting super lube on everything.  So, I decided to redesign the entire vehicle.
 
-![](/assets/Science_Olympiad/2018/Mousetrap/construct1.JPG)
+![](/assets/Science-Olympiad/2018/Mousetrap/construct1.JPG)
 
-![](/assets/Science_Olympiad/2018/Mousetrap/construct2.JPG)
+![](/assets/Science-Olympiad/2018/Mousetrap/construct2.JPG)
 
-![](/assets/Science_Olympiad/2018/Mousetrap/construct3.JPG)
+![](/assets/Science-Olympiad/2018/Mousetrap/construct3.JPG)
 
 As you can see, it was pretty sketchy.
 
@@ -38,7 +38,7 @@ Here is a list of the parts I used
 
 [Here is the cad model](https://cad.onshape.com/documents/5f6cd8fab768ff332cd17342/w/698f4a1ae03d584d62c87365/e/fc8c77e364e6066686ee30c8) of my design:
 
-![](/assets/Science_Olympiad/2018/Mousetrap/mousetrapCAD.png)
+![](/assets/Science-Olympiad/2018/Mousetrap/mousetrapCAD.png)
 
 ### Construction2:
 

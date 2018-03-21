@@ -21,20 +21,25 @@
 * [Introduction](introduction.md)
 * [Ogrebot](ogrebot.md)
 * [Boxbot](boxbot.md)
-* [Moustrap Vehicle 2017-18](moustrap-vehicle-2017-18.md)
-* [Mission Possible 2017-18](mission-possible-2017018.md)
-* [Solar Vehicle 2017-18](solar-vehicle-2017-18.md)
 * [HBot](hbot.md)
-* [Electric Vehicle 2015-16](electric-vehicle-2015-16.md)
-* [Electric Vehicle 2016-17](electric-vehicle-2016-17.md)
-* [Robot Arm 2015-16](robot-arm-2015-16.md)
-* [Robot Arm 2016-17](robot-arm-2016-17.md)
 * Hackerbot
 
 ## Science Olympiad
 
 * Hovercraft
-  * [2018](scioly/hovercraft-2018.md)
+  * [2018](scioly/Hovercraft/hovercraft-2018.md)
+* Mission Possible
+  * [2018](scioly/Mission/mission-2018.md)
+* Electric Vehicle
+  * [2017](scioly/EV/electric-vehicle-2017.md)
+  * [2016](scioly/EV/electric-vehicle-2016.md)
+* Mousetrap Vehicle
+  * [2018](scioly/Mousetrap/mousetrap-vehicle-2018.md)
+* Robot Arm
+  * [2017](scioly/Robot-Arm/robot-arm-2017.md)
+  * [2016](scioly/Robot-Arm/robot-arm-2016.md)
+* Solar Vehicle
+  * [2018](solar-vehicle-2018.md)
 
 
 
