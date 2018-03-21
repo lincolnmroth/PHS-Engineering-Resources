@@ -340,8 +340,6 @@ These are used in 3d printers that use the delta kinematics system \(I'll go ove
 
 Cranks are another way of translating rotational motion into linear. These are very frequetly used in everything from fishing rods to car engines.
 
-
-
 ![](/assets/crank.png)
 
 Cranks have the shaft, called the crankshaft, which is attached at an offset to a linear rod, which is then moved back and forth.
@@ -360,43 +358,90 @@ Differentials are super cool. I'm not going to explain gear differentials since 
 
 There are also ball differentials, which are kinda weird. [Here's](https://en.wikipedia.org/wiki/Ball_differential) the wikipedia article on them. I would not recommend, since they are very difficult, and gear differentials are much better.
 
-
-
 ##### Structural System:
+
 The structural system is very important, it's what keeps everything together, and all other systems are built upon it. There are two main parts of the structural system, the static portion and the kinetic portion. I'll start with the static part, then go through the kinetic.
+
 ###### T-Slot Aluminum Extrusions
-T-slot extrusions are a great way to have a very modular, rigid structure. T slot extrusions come in various sizes and lengths. The sides are ususallly made in multiples of 10mm, (2020, 3030, 4040 ,2040) You can get any length you want really, and if not you can easily cut it down to size (I'd recommmend a chop saw with a metal cutting  blad if you have one, but if not a hand saw with a metal cutting blade also works fine.)
+
+T-slot extrusions are a great way to have a very modular, rigid structure. T slot extrusions come in various sizes and lengths. The sides are ususallly made in multiples of 10mm, \(2020, 3030, 4040 ,2040\) You can get any length you want really, and if not you can easily cut it down to size \(I'd recommmend a chop saw with a metal cutting  blad if you have one, but if not a hand saw with a metal cutting blade also works fine.\)  
 Tslot in itself is rather useless, but when used with tnuts, they become amazing.
 
-###### vslot
+![](/assets/4040.png)
+
+T-nuts work by sliding into the slots which then allow a screw to attach to the extrusion at any point:
+
+![](/assets/tnuts.png)
+
+There is a whole host of other accessories \(can't think of a better word\) for tslot extrusions like this corner brace:
+
+![](/assets/tslotanglebrace.png)This allows you to build cool stuff like this:
+
+![](/assets/tslot structure.png)
+
 ###### bearings
+
 ###### screw
+
 ###### standoffs
+
 ###### aluminum channel
+
 ###### fea?
+
+###### vslot
+
 ###### linear rail
+
 ###### rods and linear bearings
+
 ###### building with threaded rods is what people did in the stone age
+
 ##### Sensing System:
+
 ###### Distance, ir, sonic, lidar
+
 ###### encoders
+
 ###### cameras
+
 ###### imu
+
 ###### gps
+
 ###### color sensor
+
 ###### tactile, resistive, capacitive physical
+
 ###### switchs
+
 ##### Control System:
+
 ###### arduino
+
 ###### pi
+
 ###### tegra/jetson tk1
+
 ###### computer
+
 ##### Power System:
+
 ###### batterys, lipo, nimh, sla, lifepo4
+
 ###### besc, regulators
+
 ###### wall power
+
 ###### wire guage, connectors
+
 ##### Communication System
+
 ###### cable, cat5, ide
+
 ###### breakout boards are your freind
+
 ###### sliprings
+
+
+
