@@ -62,4 +62,9 @@ This was one of the more difficult builds I have done. This was mainly due to th
 
 In conclusion, it should have done much better, but was mediocre
 
+### Rules:
+![](/rules/Science-Olympiad/2018/Rules/24.png)
+![](/rules/Science-Olympiad/2018/Rules/25.png)
+
+
 -lmr

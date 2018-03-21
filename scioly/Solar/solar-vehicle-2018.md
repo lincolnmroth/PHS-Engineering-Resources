@@ -20,5 +20,9 @@ I ended up taking a solar panel phone charger and cutting it up to get one of th
 
 Somehow it kinda worked and got 11th place, which is pretty good for the amount of work I put in. If i had time to actually engineer something, it could have been much, much better.
 
+
+
+
 -lmr
 
+[Here](https://www.soinc.org/sites/default/files/uploaded_files/Solar_Vehicle_092017.pdf) are the rules for the event
