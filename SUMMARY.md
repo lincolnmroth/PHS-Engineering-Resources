@@ -3,26 +3,29 @@
 ## [General Resources](README.md)
 
 * [Introduction](README.md)
-* [Youtube Channels](chapter1.md)
-* [Facebook Groups](facebook-groups.md)
-* [Robotics](robotics.md)
-* [Electronics](electronics.md)
+* [Youtube Channels](general-resources/youtube-channels.md)
+* [Facebook Groups](general-resources/facebook-groups.md)
+* [Robotics](general-resources/robotics.md)
+* [Electronics](general-resources/electronics.md)
 * 3D Printing
 * CAD
 * Laser Cutting
 * CNC
-* [Software \(general\)](software-general.md)
-* [Construction Skills](construction-skills.md)
+* [Software \(general\)](general-resources/software.md)
+* [Construction Skills](general-resources/construction-skills.md)
 * Flight
-* [Manufacturing](manufacturing.md)
+* [Manufacturing](general-resources/manufacturing.md)
 
 ## Projects
 
 * [Introduction](introduction.md)
-* [Ogrebot](ogrebot.md)
-* [Boxbot](boxbot.md)
-* [HBot](hbot.md)
 * Hackerbot
+
+## Robotics
+
+* [Ogrebot](robotics/ogrebot.md)
+* [Boxbot](robotics/boxbot.md)
+* [HBot](robotics/hbot.md)
 
 ## Science Olympiad
 
@@ -46,6 +49,6 @@
 ## Organization
 
 * [Introduction](organization/introduction.md)
-* hackPHS
-* PHSCRC
-* [Science Olympiad \(mainly building\)](organization/science-olympiad.md)
+* [hackPHS](organization/hackathons.md)
+* [PHSCRC](organization/PHSCRC.md)
+* [Science Olympiad Building](organization/science-olympiad.md)
