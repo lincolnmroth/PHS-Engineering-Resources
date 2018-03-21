@@ -379,11 +379,11 @@ There is a whole host of other accessories \(can't think of a better word\) for 
 
 ![](/assets/tslot structure.png)
 
-###### bearings
-
 ###### screw
 
 ###### standoffs
+
+###### bearings
 
 ###### aluminum channel
 
