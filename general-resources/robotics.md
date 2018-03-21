@@ -75,7 +75,7 @@ Wheels are the most common way of moving robots. When choosing wheels the main c
 
 Here are some of my favorite wheels:
 
-* [Banebots](http://banebots.com/) makes the best robot wheels by far. They aren't cheap, but they are very high quality, and have many great options for mounting. They also have really nice gearboxes that go great with their motors. 
+* [Banebots](http://banebots.com/) makes the best robot wheels by far. They aren't cheap, but they are very high quality, and have many great options for mounting. They also have really nice gearboxes that go great with their motors.
 * [Pololu](https://www.pololu.com/) also makes nice wheels, that work well with their motors and motor hubs. They are pretty good wheels, and are reasonably priced.They also have nice hubs to go with their wheels.
 * [Servocity](https://www.servocity.com/) also makes good wheels. They have a pretty wide variety.
 
@@ -164,7 +164,7 @@ Also there are solenoids which aren't motors, but whatever.
 ![](/assets/steppers.png)
 
 * Stepper motors are very slow, have high torque and have accurate positioning.[ Heres](https://www.youtube.com/watch?v=bkqoKWP4Oy4) how they work.
-* They are frequently used in CNC \(Computer Numerical Control, I'll go more into that in another article\) Machines like 3D Printers, laser cutters, or CNC Mills. 
+* They are frequently used in CNC \(Computer Numerical Control, I'll go more into that in another article\) Machines like 3D Printers, laser cutters, or CNC Mills.
 * Frequently come in .9 or 1.8 degree varieties.
 * Frequently use the NEMA standard, which tells you the dimensions of the front plate. Many 3d printers use NEMA 17, while bigger machines like CNC Mills will use much beefier motors.
 
@@ -362,5 +362,41 @@ There are also ball differentials, which are kinda weird. [Here's](https://en.wi
 
 
 
+##### Structural System:
+The structural system is very important, it's what keeps everything together, and all other systems are built upon it. There are two main parts of the structural system, the static portion and the kinetic portion. I'll start with the static part, then go through the kinetic.
+###### T-Slot Aluminum Extrusions
+T-slot extrusions are a great way to have a very modular, rigid structure. T slot extrusions come in various sizes and lengths. The sides are ususallly made in multiples of 10mm, (2020, 3030, 4040 ,2040) You can get any length you want really, and if not you can easily cut it down to size (I'd recommmend a chop saw with a metal cutting  blad if you have one, but if not a hand saw with a metal cutting blade also works fine.)
+Tslot in itself is rather useless, but when used with tnuts, they become amazing.
 
-
+###### vslot
+###### bearings
+###### screw
+###### standoffs
+###### aluminum channel
+###### fea?
+###### linear rail
+###### rods and linear bearings
+###### building with threaded rods is what people did in the stone age
+##### Sensing System:
+###### Distance, ir, sonic, lidar
+###### encoders
+###### cameras
+###### imu
+###### gps
+###### color sensor
+###### tactile, resistive, capacitive physical
+###### switchs
+##### Control System:
+###### arduino
+###### pi
+###### tegra/jetson tk1
+###### computer
+##### Power System:
+###### batterys, lipo, nimh, sla, lifepo4
+###### besc, regulators
+###### wall power
+###### wire guage, connectors
+##### Communication System
+###### cable, cat5, ide
+###### breakout boards are your freind
+###### sliprings
