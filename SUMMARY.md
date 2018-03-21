@@ -39,7 +39,7 @@
   * [2017](scioly/Robot-Arm/robot-arm-2017.md)
   * [2016](scioly/Robot-Arm/robot-arm-2016.md)
 * Solar Vehicle
-  * [2018](solar-vehicle-2018.md)
+  * [2018](scioly/Solar/solar-vehicle-2018.md)
 
 
 
