@@ -379,69 +379,235 @@ There is a whole host of other accessories \(can't think of a better word\) for 
 
 ![](/assets/tslot structure.png)
 
-###### screw
+I actually recommend going with vslot, which I'll go into later, which is a modified tslot profile.
+
+###### Screws/nuts+bolts
+
+Screws are almost always the best way to hold everything together.
+
+[Here](http://www.metrication.com/engineering/fastener.html) is a great site with information about screw sizes.  
+Also when buying screws, I highly recommend McMaster Carr
+
+Whenever you get to choose your screw/bolt size, please, please use metric, imperial units are dumb, you should never use them. Metric screws/bolts are pretty simple. the number next to the M \(M3, M4, M5...\) is the diameter in mm, and then the number after is the length. For example, a M3 x 30 is 3 mm in diameter and 30mm long. There are also different types of screw/bolt heads.
+
+![](/assets/boltheadtypes.png)
+
+I usually use cap head screws because they can easily be countersunk with just a standard drill bit, but if you cannot have that extra space, a countersunk head is recommended. 
+
+In robotics, you almost always use bolts instead of screws, which is why I often refer to nuts as screws, but here is some info about screw types.
+
+![](/assets/screwtypes.png)
+
+One frequent issue with nuts is that vibrations and impacts can make them loose. Loctite is what is used to prevent this. There are two different types, blue and red. Blue loctite is temporary while red is permanent. The other option are locknuts, which are standard nuts, but they have a nylon insert which adds more grip. 
+
+![](/assets/locknut.png)
 
 ###### standoffs
 
-###### bearings
+Standoffs are another way of adding structure to your robots.  
+![](/assets/standoffs.png)They are used in robots like these \(what a great looking robot!\):
 
-###### aluminum channel
+![](/assets/Screen Shot 2017-09-25 at 3.19.10 PM.png)
 
-###### fea?
+Standoff ends come in two different varieties, Male and Female. The male end screws into the female end \(I assume you can figure out the reason for the nomenclature\).
 
-###### vslot
+###### Aluminum Channel
 
-###### linear rail
+[Actobotics](https://www.servocity.com/structural-components/channel/standard-channel) aluminum channel is an alternative to t-slot extrusions, and I've heard good things about it, but have never actually used it. 
 
-###### rods and linear bearings
+![](/assets/actoboticschannel.png)
+
+###### FEA
+
+FEA, finite element analysis, is a way to make sure your robots are strong enough. I'll talk about it a lot more in the CAD section.
+
+![](/assets/fea.png)
+
+###### Bearings
+
+There are two main types of bearings, roller and linear
+
+I'd also recommend McMaster for getting bearings
+
+[Heres](https://www.youtube.com/watch?v=5Dkruh8NO9E) a video about bearings
+
+The job of bearings is to reduce friction. They do this by having little bearing balls roll around.
+
+![](/assets/rollerbearingcutaway.png)
+
+Bearings are often used for supporting rods/axles so that there is not torque on the axle. 
+
+For example this load-bearing servo has a bearing pillow block, which allows it to support against much larger forces:
+
+![](/assets/pillowblock.png)
+
+Linear bearings are used on rods to reduce sliding friction:
+
+![](/assets/linearbearing.png)
+
+###### Bushings
+
+Bushings are used in the same way as bearings. The difference is that bushings are just a low friction material, and do not have any balls in them. Nylon and teflon are frequently used as bushings.
+
+Igus makes nice bushings.
+
+###### V-Slot
+
+V-slot extrusion is an evolution upon T-slot extrusion made by [openbuilds](http://openbuildspartstore.com/).
+
+![](/assets/vslot.png)
+
+Vslot has a v shaped profile on the edges which allows self-centering roller bearing wheels to ride smoothly on them.
+
+This allows for platforms that are meant to move to be attached to vslot extrusion:
+
+![](/assets/vslot2.png)
+
+To ensure that the wheels are making good contact, they have to be at the right tension to the rail. To make this easily adjustable, use eccentric nuts, which allow slight rotations of the screw to make incremental adjustments in the height of the wheels.
+
+![](/assets/eccentricnuts.png)
+
+###### Linear Rail
+
+Linear rail is amazing, but kinda expensive. The good stuff is made by Hiwin. 
+
+Linear rail is the best way to have linear motion, it is super rigid and has minimal slop.
+
+![](/assets/linearrails.png)
+
+They are also very easy to use and attach stuff to. Just make sure you don't remove the bearing blocks from the rail or else you'll have a lot of balls on the floor.
+
+![](/assets/linearrailbearing.png)
+
+###### Rods and Linear Bearings
+
+Rods and linear bearings are the most common to support linear motion, and are used extensively in consumer 3d printers and similar machines.
+
+Misumi makes the nicest rods and bearings.
+
+![](/assets/linearrodsystem.png)
+
+![](/assets/linearrods.png)
+
+Usually you use 8mm rods and bearings, unless you will be dealing with a lot of forces, then you sometimes use 12mm.
 
 ###### building with threaded rods is what people did in the stone age
 
+Don't do this. It's what people did back in the early reprap days. 
+
+Threaded rods were used as structural support in the early 3d printing days. They are a huge pain, so don't ever use them.
+
+![](/assets/reprapdarwin.png)
+
 ##### Sensing System:
 
-###### Distance, ir, sonic, lidar
+Without knowledge of their surrounding, robots are usually pretty useless \(not always\). I'm not going to go too in depth here, since I'll go very into depth in the electronics article.
+
+###### Distance:
+
+Knowing distance to objects is very important. The three main ways of doing this are using infrared sensors, ultrasonic sensors, and LIDAR Sensors.
 
 ###### encoders
 
+Encoders measure how much rotation has happened on a shaft. [PJRC](https://www.pjrc.com/teensy/td_libs_Encoder.html) has a good site on them.
+
 ###### cameras
 
-###### imu
+Cameras can also be used for a lot of purposes, it just requires very complicated code to understand the data.
 
-###### gps
+###### IMU
 
-###### color sensor
+IMUs or Inertial Measurement Units measure  body's specific force, angular rate, and sometimes the magnetic field surrounding the body
 
-###### tactile, resistive, capacitive physical
+###### GPS
 
-###### switchs
+GPS measures position relative to the earth
+
+###### Color Sensor
+
+Color sensors measure colors
+
+###### Tactile, resistive, capacitive physical
+
+Knowing if the robot is being touched in any way is useful for knowing if it hit something or not. 
+
+
+
+Apologies for this section being pretty dinky, but I'll go into more detail in the electronics article.
 
 ##### Control System:
 
-###### arduino
+Choosing a controller for your robot is a pretty simple task. If you do not need a full operating system, you go with arduino. If you need an OS, but you do not need a particularly power processor, you use a raspberry pi. If you need a lot of power, you go with something fancy like a full blown computer or a NVIDIA Jetson TK1. I'll go into more detail about the pros and cons in the electronics doc. 
 
-###### pi
+[Arduino](https://www.arduino.cc/)
 
-###### tegra/jetson tk1
+[Raspberry Pi](https://www.raspberrypi.org/)
 
-###### computer
+[tegra/jetson tk1](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
+
+computer
 
 ##### Power System:
 
-###### batterys, lipo, nimh, sla, lifepo4
+Your robot needs power somehow, so you need a power system.
 
-###### besc, regulators
+###### Batteries, lipo, nimh, sla, lifepo4
+
+Batteries are the most common ways to power robots. The best choice of battery is usually LiPo. It allows for very high amp draw and lasts a long time.
+
+Lipo batteries come with a certain number of cells, each of which is 3.7v but is usually charged to 4.2. For example a 3s \(s is for cell\) lipo is rated at 11.1v, but can be charged to 12.6v. Lipos can be dangerous. If they are shorted, they will blow up. [Heres](https://rogershobbycenter.com/lipoguide/) an article about lipos.
+
+![](/assets/lipo.png)
+
+SLA, sealed lead acid, batteries have very high capacity, and an extremely high momentary amp draw, but a very low continuous amp draw, which is why they are used to start cars.
+
+![](/assets/slabattery.png)
+
+NiMH batteries are getting kind of out of date these days, so only use them if a competiton \(\*cough\* Scioly \*cough\*\) disallows both lithium and lead batteries.
+
+![](/assets/nimh.png)
+
+Lithium Iron Phosphate, LiFePo4 batteries are pretty hipster these days, not many people have actually used them, they're just talked about a lot, so they have the potential to be pretty good.
+
+![](/assets/lifepo4.png)
+
+###### bec, regulators
+
+Sometimes you need a different voltage that your battery puts out, which means you need a regulator. BEC, or battery eliminator circuit's are a good way of stepping down any voltage form 7-24 V to 5V. If you need something else, you will need a buck converter.
+
+![](/assets/bec.png)
 
 ###### wall power
 
-###### wire guage, connectors
+I do not recommend using wall power, it is dangerous, and difficult to use. If you do, use a PSU, and probably one from a reputable brand like Meanwell.
+
+###### Connectors
+
+Connectors to your batteries are useful so you can easily remove them when you want, but also they don't come unplugged accidentally.
+
+XT-60 is my reccomended battery connector for anything decently sized. JST is acceptable for smaller sizes, but XT-60 is always a good option.
+
+![](/assets/xt60.png)
 
 ##### Communication System
 
+All the different parts of your robot need a way to talk to each other, and that is the job of the communications system.
+
 ###### cable, cat5, ide
 
-###### breakout boards are your freind
+Using wires is fine, except sometimes they can create a huge mess. That is why using cables such as cat5 \(ethernet\) wire or IDE cables \(Old hard drive cables\) can be useful.
+
+![](/assets/cat5.png)
+
+###### Breakout Boards
+
+Making breakout boards is a very good idea, they allow a large organized bundle of wire to be distributed cleanly to all the needed places.
+
+![](/assets/breakout.png)
 
 ###### sliprings
 
+Sliprings allow wiring to go through a roational joint.
 
+![](/assets/slipring.png)
 
