@@ -1,25 +1,25 @@
 # Summary
 
-## [General Resources](README.md)
+## General Resources
 
 * [Introduction](README.md)
 * [Youtube Channels](general-resources/youtube-channels.md)
 * [Facebook Groups](general-resources/facebook-groups.md)
 * [Robotics](general-resources/robotics.md)
 * [Electronics](general-resources/electronics.md)
-* 3D Printing
-* CAD
-* Laser Cutting
-* CNC
+* [3D Printing](3d-printing.md)
+* [CAD](cad.md)
+* [Laser Cutting](laser-cutting.md)
+* [CNC](cnc.md)
 * [Software \(general\)](general-resources/software.md)
 * [Construction Skills](general-resources/construction-skills.md)
-* Flight
+* [Flight](flight.md)
 * [Manufacturing](general-resources/manufacturing.md)
 
 ## Projects
 
 * [Introduction](introduction.md)
-* Hackerbot
+* [Hackerbot](hackerbot.md)
 
 ## Robotics
 
@@ -44,11 +44,10 @@
 * Solar Vehicle
   * [2018](scioly/Solar/solar-vehicle-2018.md)
 
-
-
 ## Organization
 
 * [Introduction](organization/introduction.md)
 * [hackPHS](organization/hackathons.md)
 * [PHSCRC](organization/PHSCRC.md)
 * [Science Olympiad Building](organization/science-olympiad.md)
+
