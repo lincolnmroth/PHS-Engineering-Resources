@@ -33,7 +33,8 @@
 
 ## Science Olympiad
 
-* [Hovercraft 2017-18](scioly/hovercraft-2018.md)
+* Hovercraft
+  * [2018](scioly/hovercraft-2018.md)
 
 
 
