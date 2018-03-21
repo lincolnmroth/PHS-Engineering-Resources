@@ -1,6 +1,6 @@
 # Summary
 
-## General resources
+## [General Resources](README.md)
 
 * [Introduction](README.md)
 * [Youtube Channels](chapter1.md)
@@ -21,7 +21,6 @@
 * [Introduction](introduction.md)
 * [Ogrebot](ogrebot.md)
 * [Boxbot](boxbot.md)
-* [Hovercraft 2017-18](hovercraft-2017-18.md)
 * [Moustrap Vehicle 2017-18](moustrap-vehicle-2017-18.md)
 * [Mission Possible 2017-18](mission-possible-2017018.md)
 * [Solar Vehicle 2017-18](solar-vehicle-2017-18.md)
@@ -32,10 +31,15 @@
 * [Robot Arm 2016-17](robot-arm-2016-17.md)
 * Hackerbot
 
+## Science Olympiad
+
+* [Hovercraft 2017-18](scioly/hovercraft-2018.md)
+
+
+
 ## Organization
 
 * [Introduction](organization/introduction.md)
 * hackPHS
 * PHSCRC
 * [Science Olympiad \(mainly building\)](organization/science-olympiad.md)
-
