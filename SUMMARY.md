@@ -7,13 +7,13 @@
 * [Facebook Groups](general-resources/facebook-groups.md)
 * [Robotics](general-resources/robotics.md)
 * [Electronics](general-resources/electronics.md)
-* [3D Printing](3d-printing.md)
-* [CAD](cad.md)
-* [Laser Cutting](laser-cutting.md)
-* [CNC](cnc.md)
+* [3D Printing](general-resources/3d-printing.md)
+* [CAD](general-resources/cad.md)
+* [Laser Cutting](general-resources/laser-cutting.md)
+* [CNC](general-resources/cnc.md)
 * [Software \(general\)](general-resources/software.md)
 * [Construction Skills](general-resources/construction-skills.md)
-* [Flight](flight.md)
+* [Flight](general-resources/flight.md)
 * [Manufacturing](general-resources/manufacturing.md)
 
 ## Projects
@@ -50,4 +50,3 @@
 * [hackPHS](organization/hackathons.md)
 * [PHSCRC](organization/PHSCRC.md)
 * [Science Olympiad Building](organization/science-olympiad.md)
-
