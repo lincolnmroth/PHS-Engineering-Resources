@@ -16,11 +16,6 @@
 * [Flight](general-resources/flight.md)
 * [Manufacturing](general-resources/manufacturing.md)
 
-## Projects
-
-* [Introduction](introduction.md)
-* [Hackerbot](hackerbot.md)
-
 ## Robotics
 
 * [Ogrebot](robotics/ogrebot.md)
