@@ -55,7 +55,7 @@ States was the worst disaster for Mission this year, not because of a bad build,
 
 Mission was rather bad in 2018. The difficulty and time commitment required for a good build was not recognized early, and we paid for it with our health. In the end, we put a lot of time into a lot of solid ideas, and the building team did gain a ton of experience. However, it should have gone better, especially at States, with small failures that caused nothing to work. Quite the difficult event, with so many quirks and sketchiness that communication, knowledge over the rules, and timeleness are absolutely essential. Although the build may not have done that well, it was an interesting learning experience for the building team, with many disappointments and not a lot of success.
 
-2018 Mission- Lincoln Roth, Charlie Luo, Stephane Morel (with Diane Li and Brian Li contributing)
+2018 Mission- Lincoln Roth, Charlie Luo, Dylan Raphael, Stephane Morel (with Diane Li and Brian Li contributing)
 
 
 
