@@ -15,6 +15,13 @@
   * [Communication System](general-resources/robotics/communication-system.md)
 * [Electronics](general-resources/electronics/introduction.md)
   * [Basic Circuits](general-resources/electronics/basic-circuits.md)
+  * Sensors
+  * Electrical Tools
+  * Making stuff move
+  * Micro-controllers
+  * Powering your circuits
+  * Logic
+  * FPGA's and beyond
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)
@@ -53,3 +60,4 @@
 * [hackPHS](organization/hackathons.md)
 * [PHSCRC](organization/PHSCRC.md)
 * [Science Olympiad Building](organization/science-olympiad.md)
+
