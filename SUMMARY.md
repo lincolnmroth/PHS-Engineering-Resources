@@ -15,13 +15,14 @@
   * [Communication System](general-resources/robotics/communication-system.md)
 * [Electronics](general-resources/electronics/introduction.md)
   * [Basic Circuits](general-resources/electronics/basic-circuits.md)
-  * Sensors
-  * Electrical Tools
-  * Making stuff move
-  * Micro-controllers
-  * Powering your circuits
-  * Logic
-  * FPGA's and beyond
+  * Wire
+  * [Electrical Tools](general-resources/electronics/electrical-tools.md)
+  * [Sensors](general-resources/electronics/sensors.md)
+  * [Making stuff move](general-resources/electronics/making-stuff-move.md)
+  * [Micro-controllers](general-resources/electronics/micro-controllers.md)
+  * [Powering your circuits](general-resources/electronics/powering-your-circuits.md)
+  * [Logic](general-resources/electronics/logic.md)
+  * [FPGA's and beyond](general-resources/electronics/fpgas-and-beyond.md)
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)
