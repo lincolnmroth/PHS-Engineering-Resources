@@ -46,13 +46,63 @@ Here's a good video on series and parallel circuits
 
 ## Electrical Components
 
+I'm using [tinkercad's](/://www.tinkercad.com) circuit functionality, which I don't particularly like, but it is pretty good for teaching/learning basic electronics.
+
+We'll start with this circuit and build off it while learning about new components.
+
+![](/assets/Screen Shot 2018-03-23 at 9.32.52 PM.png)
+
+As you see, I have a 5v power supply that is turning a light bulb. Pretty simple, right?
+
 ### Resistors
+
+If say we were being blinded by this light, we can lower the brightness by using a resistor.
+
+![](/assets/Screen Shot 2018-03-23 at 9.35.07 PM.png)
+
+I added a 1K, or 1000, Ohm resistor. To determine the resistance of a resistor, they are color coded with the resistance. Here's a chart:
+
+![](/assets/resistorcolors.png)
+
+But if you are lazy, like me, and do not want to look up a chart on resistors, I highly recommend this [Alexa](https://www.amazon.com/Roth-Resistor-Codes/dp/B071X6XBXW/) skill which does it for you, and was most definitely not made by me.
+
+Another type of resistor is a variable resistor. These are more commonly called potentiometers. They are usually dials that change resistance based on the angle that it has been turned. This circuit allows us to change the brightness of the light based on the pot.
+
+![](/assets/Screen Shot 2018-03-23 at 10.15.19 PM.png)
+
+### Buttons/Switches
+
+Next we'll use a button. Button's are very simple, they are just switches that open and close circuits.
+
+So now, our light will only turn on when we are pressing the button.
+
+![](/assets/Screen Shot 2018-03-23 at 10.12.50 PM.png)
+
+All buttons/switches are made differently, so always test the leads to see which ones get connected.
 
 ### Capacitors
 
+Capacitors are a way of storing electricity. [Here's](https://learn.sparkfun.com/tutorials/capacitors) an article on them.
+
+This circuit I built allows the capacitor to be charged once the button is pressed, so when the button is released, the light stays on for a second or two.
+
+![](/assets/Screen Shot 2018-03-23 at 10.29.48 PM.png)
+
+I am using a 1000 microfarad capacitor and a 470 ohm resistor.
+
 ### Diodes
 
+Diodes are kinda like a one way valve, they allow current to flow in one direction, but not the other.
+
+
+
+One popular type of diodes are Light Emitting Diodes, or LEDs.
+
 ### Transistors
+
+[Here's](https://learn.sparkfun.com/tutorials/transistors) a good article about transistors.
+
+Transistors are a really broad topic, and can be used in so many different ways.
 
 ### Batteries:
 

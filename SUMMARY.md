@@ -15,7 +15,7 @@
   * [Communication System](general-resources/robotics/communication-system.md)
 * [Electronics](general-resources/electronics/introduction.md)
   * [Basic Circuits](general-resources/electronics/basic-circuits.md)
-  * Wire
+  * [Wire](general-resources/electronics/wire.md)
   * [Electrical Tools](general-resources/electronics/electrical-tools.md)
   * [Sensors](general-resources/electronics/sensors.md)
   * [Making stuff move](general-resources/electronics/making-stuff-move.md)
@@ -23,6 +23,7 @@
   * [Powering your circuits](general-resources/electronics/powering-your-circuits.md)
   * [Logic](general-resources/electronics/logic.md)
   * [FPGA's and beyond](general-resources/electronics/fpgas-and-beyond.md)
+  * Wireless Communication
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)
