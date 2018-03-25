@@ -46,6 +46,16 @@ Here's a good video on series and parallel circuits
 
 ## Electrical Components
 
+The most important electrical component for prototyping is a breadboard. Breadboard's make it very easy to make connections between components.
+
+This is a breadboard:
+
+![](/assets/breadboard.png)
+
+and this is how it is connected on the inside:
+
+![](/assets/breadboarddiagram.png)
+
 I'm using [tinkercad's](/://www.tinkercad.com) circuit functionality, which I don't particularly like, but it is pretty good for teaching/learning basic electronics.
 
 We'll start with this circuit and build off it while learning about new components.
@@ -93,8 +103,6 @@ I am using a 1000 microfarad capacitor and a 470 ohm resistor.
 ### Diodes
 
 Diodes are kinda like a one way valve, they allow current to flow in one direction, but not the other.
-
-
 
 One popular type of diodes are Light Emitting Diodes, or LEDs.
 

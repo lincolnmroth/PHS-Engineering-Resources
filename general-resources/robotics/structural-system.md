@@ -49,7 +49,7 @@ Standoffs are another way of adding structure to your robots.
 
 ![](/assets/Screen Shot 2017-09-25 at 3.19.10 PM.png)
 
-Standoff ends come in two different varieties, Male and Female. The male end screws into the female end \(I assume you can figure out the reason for the nomenclature\).
+Standoff ends come in two different varieties, Male and Female. The male end screws into the female end.
 
 ###### Aluminum Channel
 
@@ -138,3 +138,4 @@ Don't do this. It's what people did back in the early reprap days.
 Threaded rods were used as structural support in the early 3d printing days. They are a huge pain, so don't ever use them.
 
 ![](/assets/reprapdarwin.png)
+
