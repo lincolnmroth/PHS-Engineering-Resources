@@ -26,7 +26,7 @@ Arcade buttons work identically to breadboard buttons except they look cooler.
 
 ### E Stop
 
-I love e-stop switches, as they are satisfying to use, and usually are used in applications when something dangerous could happen. 
+I love e-stop switches, as they are satisfying to use, and usually are used in applications when something dangerous could happen.
 
 ![](/assets/estopswitch.png)
 
@@ -56,17 +56,43 @@ See [Basic Circuits](/general-resources/electronics/basic-circuits.md)
 
 ## Ultrasonic Ranger
 
+![](/assets/hcsr04.png)
 
+Ultrasonic rangers are sensors that can measure distance to an object using a technique similar to echolocation as used by bats. I'm going to mainly talk about the HC-SR04 variety which are extremely common, fairly reliable/accurate, and really cheap \(like cents\). There are fancier, more expensive kinds, but they are fairly unnecessary for hobby use. 
+
+One thing to always look for when using any sensor is the [datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf). Looking at the datasheet, According to the electrical specs, it takes in 5v and outputs 5v. Therefore if you are running a device that uses 3v3 logic \(like Raspberry PI!!\), you will need a voltage [divider](https://en.wikipedia.org/wiki/Voltage_divider) to step down the output voltage. Another very important part of the datasheet is the Timing diagram. The diagram tells us exactly how to get information from the sensor. I'll outline the steps here,
+
+1. send a 10 microsecond pulse to the trigger pin. You do this by giving the trigger pin 5v.
+2. You read the the pulse width from the echo pin, you can use the pulseIn function in arduino.
+3. Take that value in microseconds and divide it by 58 to get the distance in centimeters
+
+![](/assets/Screen Shot 2018-03-30 at 12.05.51 AM.png)
 
 ## IR
 
-## Photoresistor 
+Infrared sensors are used to measure infrared light. This can be useful for detecting fire. IR sensors just look like opaque, black LEDs like this:
+
+![](/assets/flameled.png)
+
+These work by having the increase in ir light decrease the resistance. You can measure the amount of ir light sensed by applying a voltage, and reading the output voltage.
+
+Another really cool application of these is to be used as distance sensors similar to the ultrasonics above. [Here's](http://education.rec.ri.cmu.edu/content/electronics/boe/ir_sensor/4.html) how they work. These also have an analog output, which means they change the voltage based on the distance. The main issue with these sensors is this; the output function is not a function. If you graph distance over analog voltage, instead of how the graph below does it, you see that it is not a function. This means if an object gets too close, it will read the same as if it is further away.
+
+![](/assets/irgraph.png)
+
+## Photoresistor
+
+Photoresistors are very simple as well. They are variable resistors that instead of being based on position like a potentiometer, the resistance is based off of light intesity.
+
+![](/assets/photoresistor.png)
 
 ## Hall Sensor
 
-## ir led
+Hall sensors
 
-## encoder
+## Encoder
+
+
 
 ## i2c devices:
 
