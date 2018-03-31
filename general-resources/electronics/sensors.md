@@ -120,7 +120,7 @@ Measuring full color is a lot harder. You need a fairly complicated sensor, but 
 
 ## IMUs
 
-IMUs, or Inertial Measurement Units, are another one of my favorite sensors. They measure specific force, angular rate, and sometimes magnetic field. Basically they can measure acceleration, both linear and angular, angular velocity, and orientation. They do this by having \(at least\) a 3 axis accelerometer, gyroscope, and magnetometer. If you are looking for one for your robot, I recommend the BNO055,
+IMUs, or Inertial Measurement Units, are another one of my favorite sensors. They measure specific force, angular rate, and sometimes magnetic field. Basically they can measure acceleration, both linear and angular, angular velocity, and orientation. They do this by having \(at least\) a 3 axis accelerometer, gyroscope, and magnetometer. If you are looking for one for your robot, I recommend the BNO055, which also uses i2c.
 
 ![](/assets/bno55.png)
 

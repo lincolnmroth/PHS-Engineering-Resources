@@ -21,9 +21,9 @@
   * [Making stuff move](general-resources/electronics/making-stuff-move.md)
   * [Micro-controllers](general-resources/electronics/micro-controllers.md)
   * [Powering your circuits](general-resources/electronics/powering-your-circuits.md)
+  * [Communication protocols](general-resources/electronics/communication-protocols.md)
   * [Logic](general-resources/electronics/logic.md)
-  * [FPGA's and beyond](general-resources/electronics/fpgas-and-beyond.md)
-  * Wireless Communication
+  * [Wireless Communication](general-resources/electronics/wireless-communication.md)
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)
