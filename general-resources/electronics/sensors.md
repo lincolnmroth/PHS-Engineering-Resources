@@ -58,7 +58,7 @@ See [Basic Circuits](/general-resources/electronics/basic-circuits.md)
 
 ![](/assets/hcsr04.png)
 
-Ultrasonic rangers are sensors that can measure distance to an object using a technique similar to echolocation as used by bats. I'm going to mainly talk about the HC-SR04 variety which are extremely common, fairly reliable/accurate, and really cheap \(like cents\). There are fancier, more expensive kinds, but they are fairly unnecessary for hobby use. 
+Ultrasonic rangers are sensors that can measure distance to an object using a technique similar to echolocation as used by bats. I'm going to mainly talk about the HC-SR04 variety which are extremely common, fairly reliable/accurate, and really cheap \(like cents\). There are fancier, more expensive kinds, but they are fairly unnecessary for hobby use.
 
 One thing to always look for when using any sensor is the [datasheet](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf). Looking at the datasheet, According to the electrical specs, it takes in 5v and outputs 5v. Therefore if you are running a device that uses 3v3 logic \(like Raspberry PI!!\), you will need a voltage [divider](https://en.wikipedia.org/wiki/Voltage_divider) to step down the output voltage. Another very important part of the datasheet is the Timing diagram. The diagram tells us exactly how to get information from the sensor. I'll outline the steps here,
 
@@ -88,21 +88,45 @@ Photoresistors are very simple as well. They are variable resistors that instead
 
 ## Hall Sensor
 
-Hall sensors
+Hall sensors are sensor capable of measuring magnetic field.
 
-## Encoder
+## Rotary Encoder
 
+![](/assets/crapyencoder.png)
 
+![](/assets/fancy encoder.png)
 
-## i2c devices:
+Rotary Encoders a way of measuring how far something has rotated. There are two types, absolute and incremental. I don't really like absolute, so I rarely use them. I use incremental encoders all the time, and I absolutely love them, they are one of my favorite types of sensors.
 
-## color
+There are the crappy encoders that are used as dials on like the front of 3d printers or on radios or whatever, with their little clicky wheels. These are dirt cheap and useful for those types of applications, but it starts to get fun once we start getting into the nice high quality quadrature encoders. Quadrature encoders have a spinning disk with perforations in the side. [Here's](https://www.pjrc.com/teensy/td_libs_Encoder.html) a good page on how encoders work. There is a little animation thing that is really great for understanding how they work.
 
-## imu
+![](/assets/Screen Shot 2018-03-30 at 9.28.24 PM.png)
 
-## adc
+## Color sensors
 
-## cameras
+Color sensors are sensors that measure color. I'll talk about both grayscale sensors and full color sensors.
 
+### Grayscale
 
+To measure grayscale, it is actually rather simple. You just need an led and a photoresistor, and you can measure how much light is reflected. Easy as that.
+
+![](/assets/grayscale.png)
+
+### Full Color
+
+Measuring full color is a lot harder. You need a fairly complicated sensor, but luckily awesome companies like Adafruit and Sparkfun have made boards that make them really easy to use. These boards read the sensors and then can communicate the readings over i2c \(Inter-integrated circuits\), which is easy for arduinos or raspberry pis to use.
+
+![](/assets/colorsensor.png)
+
+## IMUs
+
+IMUs, or Inertial Measurement Units, are another one of my favorite sensors. They measure specific force, angular rate, and sometimes magnetic field. Basically they can measure acceleration, both linear and angular, angular velocity, and orientation. They do this by having \(at least\) a 3 axis accelerometer, gyroscope, and magnetometer. If you are looking for one for your robot, I recommend the BNO055,
+
+![](/assets/bno55.png)
+
+But IMUs are found on many other things such as rockets, airplanes, and helicopter.
+
+## Cameras
+
+Probably the most powerful sensor, but hardest to use is the camera. Y'all already know what a camera is, but using it as a sensor is very difficult. This is because you need to use computer vision. If you are doing this, I highly reccomend OpenCV, a python library for computer vision.
 
