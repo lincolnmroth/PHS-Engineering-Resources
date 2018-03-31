@@ -64,8 +64,6 @@ You can get fancier motor drives that can handle extremely large currents. The r
 
 Brushed DC Motors are used in a very wide variety of application. They are  used in everything from cordless drills, to Oppurtunity \(mars rover\). They are being used less and less due to BLDC motors, but they are still used in a variety of applications due to their low cost and ease of control. Also when paired with a quadrature encoder \(see [sensors](/general-resources/electronics/sensors.md) page\), they can be made to very accurate as well.
 
-
-
 ### Hobby Servo Motor
 
 This section is going to be about servo motors meant for hobby use. Industrial servos are VERY different. I will go over them later.
@@ -84,7 +82,7 @@ So basically there is a brushed dc motor \(see above\) with a gear box to increa
 
 ##### Continuous:
 
-Continuous rotation servos are the same as before, except they don't have a potentiometer, so you can't specify angle, only direction and speed, which you could already do with an hbridge. 
+Continuous rotation servos are the same as before, except they don't have a potentiometer, so you can't specify angle, only direction and speed, which you could already do with an hbridge.
 
 #### How to control them:
 
@@ -96,13 +94,11 @@ Servo's have 3 wires, a red one for power \(5-7.2 v usually\), a black one for g
 
 #### Use cases:
 
-Servo motors are used a lot in inexpensive projects. For example, they are used in rc planes to control the control surface \(see [flight](/general-resources/flight.md) section. Continuous rotation servos are used in cheap robots, but I try to never use them. 
-
-
+Servo motors are used a lot in inexpensive projects. For example, they are used in rc planes to control the control surface \(see [flight](/general-resources/flight.md) section. Continuous rotation servos are used in cheap robots, but I try to never use them.
 
 ### Stepper Motor
 
-Stepper motors are motors that have pretty high torque and pretty low speed. What makes them special is their ability to "step". They step a certain fraction of a degree every time allowing them to be used when accuracy is needed. 
+Stepper motors are motors that have pretty high torque and pretty low speed. What makes them special is their ability to "step". They step a certain fraction of a degree every time allowing them to be used when accuracy is needed.
 
 ![](/assets/allthenemas.png)
 
@@ -114,19 +110,23 @@ Stepper motors are motors that have pretty high torque and pretty low speed. Wha
 
 #### How to control them:
 
+Stepper motors require a stepper driver to control them. Never underestimate the importance of the stepper driver, as getting a better driver can drastically improve motor performance. If you are just controlling a small stepper and not drawing much current, a standard dual h-bridge should be fine, but once the motor has to do real work, you need to get a real stepper driver. The allegro and polulu chips will do the trick for most applications. If you want an advanced stepper driver, but nothing crazy, I HIGHLY RECOMMEND the TMC2130s from trinamic. They have many awesome features which make them super useful. If you are doing something industrial you need an industrial driver, I hear the ones from gecko tech \(I think thats the name\) are pretty good, also I think leadshine has some decent ones.
+
 #### Use cases:
+
+Stepper motors are used frequently in CNC applications, so 3D Printers, laser cutters, and CNC mills. 
 
 
 
 ### BLDC Motor
+
+BLDC motors are my favorite motors \(especially when made into Industrial Servos\). They have high torque at low speeds, extremely high speeds, and high reliability.
 
 #### How they work:
 
 #### How to control them:
 
 #### Use cases:
-
-
 
 ### Industrial Servos
 
@@ -135,13 +135,6 @@ Stepper motors are motors that have pretty high torque and pretty low speed. Wha
 #### How to control them:
 
 #### Use cases:
-
-## Motor drivers
-
-* H Bridghe
-* Dual H-Bridge
-* Stepper Drivers \(Pololu, Trinamic...\)
-* ESCs
 
 ## Solenoid's
 
