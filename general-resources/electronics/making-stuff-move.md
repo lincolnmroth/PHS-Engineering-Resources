@@ -114,31 +114,57 @@ Stepper motors require a stepper driver to control them. Never underestimate the
 
 #### Use cases:
 
-Stepper motors are used frequently in CNC applications, so 3D Printers, laser cutters, and CNC mills. 
-
-
+Stepper motors are used frequently in CNC applications, so 3D Printers, laser cutters, and CNC mills.
 
 ### BLDC Motor
+
+![](/assets/bldc.png)
 
 BLDC motors are my favorite motors \(especially when made into Industrial Servos\). They have high torque at low speeds, extremely high speeds, and high reliability.
 
 #### How they work:
 
+[Heres](https://www.youtube.com/watch?v=bCEiOnuODac) how they work.
+
 #### How to control them:
 
+To control BLDC motors, you need an ESC, Electronic Speed Controller. ESC's take a PWM Signal, so they can be controlled just like a servo. Make sure you get an esc capable of about 5-10A higher than the max amp draw from your motor, since you don't want an esc to release it's magic blue smoke. I recommend the VESC for robotic applications.
+
+![](/assets/escs.png)
+
 #### Use cases:
+
+BLDC motors are used everywhere from rc cars and planes to Curiosity \(the mars rover\) to teslas.
+
+
 
 ### Industrial Servos
 
+![](/assets/clearpathservos.png)
+
+Industrial servos are the happy marriage between BLDC motors, quadrature encoders, and closed loop motor controllers.
+
 #### How they work:
+
+They work by having a BLDC motor with an encoder on them and a closed loop motor controller. This allows them to go extremly precise speeds and go to exact positions, and it is impossible for them to lose position due to the quadrature encoder.
 
 #### How to control them:
 
+It highly depends on the Servo motor, but I highly recommend the ODrive for controlling Industrial Servos.
+
 #### Use cases:
+
+Industrial robot arms, automation of lots of things.
+
+
 
 ## Solenoid's
 
+Solenoids are just electromagnets. They are just controlled by giving them power, and that's usually it. They are used in many applications such as valves and such.
+
 ## Pneumatic/Hydraulic Actuators
+
+I could have an entire article on pneumatics, but as this is meant to be for High School projects, it's unlikely you'll ever use them, so I'm not going to put anything here. If for some reason you need to know about pneumatics, ask me, and I can talk to you all day.
 
 
 
