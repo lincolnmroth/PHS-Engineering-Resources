@@ -136,8 +136,6 @@ To control BLDC motors, you need an ESC, Electronic Speed Controller. ESC's take
 
 BLDC motors are used everywhere from rc cars and planes to Curiosity \(the mars rover\) to teslas.
 
-
-
 ### Industrial Servos
 
 ![](/assets/clearpathservos.png)
@@ -156,8 +154,6 @@ It highly depends on the Servo motor, but I highly recommend the ODrive for cont
 
 Industrial robot arms, automation of lots of things.
 
-
-
 ## Solenoid's
 
 Solenoids are just electromagnets. They are just controlled by giving them power, and that's usually it. They are used in many applications such as valves and such.
@@ -165,6 +161,10 @@ Solenoids are just electromagnets. They are just controlled by giving them power
 ## Pneumatic/Hydraulic Actuators
 
 I could have an entire article on pneumatics, but as this is meant to be for High School projects, it's unlikely you'll ever use them, so I'm not going to put anything here. If for some reason you need to know about pneumatics, ask me, and I can talk to you all day.
+
+## PIDs
+
+[PIDs](https://en.wikipedia.org/wiki/PID_controller) \(Proportional Integral Derivative\) is a feedback loop algorithm that can be used for many different application in robotics. For example, it is used in drones to stay level. It takes inputs from an IMU and then outputs to the motors to compensate. 
 
 
 
