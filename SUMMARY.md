@@ -36,6 +36,9 @@
 ## Robotics
 
 * [Ogrebot](robotics/ogrebot.md)
+* LockLAN
+* T-Cubed
+* Wall-E
 * [Boxbot](robotics/boxbot.md)
 * [HBot](robotics/hbot.md)
 
