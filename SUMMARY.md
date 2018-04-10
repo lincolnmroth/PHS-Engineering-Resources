@@ -27,6 +27,7 @@
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)
+  * Our laser \(FSL Hobby\)
 * [CNC](general-resources/cnc.md)
 * [Software \(general\)](general-resources/software.md)
 * [Construction Skills](general-resources/construction-skills.md)
