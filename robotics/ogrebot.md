@@ -26,8 +26,6 @@ Here's a picture of the drive system.
 
 I also added a cutout for wiring any sensors to the bottom of the robot, as I planned on putting a color sensor on the bottom to detect the change of rooms in the maze.
 
-
-
 This is not the best drive system I have designed, but I was definitely satisfied with it, and it was pretty solid.
 
 #### Sensor system:
@@ -84,23 +82,23 @@ This competition was supposed to be the one where everything worked. I had start
 
 * Having weird ultrasonic readings because of weird threading issues
 * Having to make an encoder daemon because it required readings all the time
-* PIDs getting messed up
-* 
-### What I/we learned:
+* PIDs getting messed up causes hard to diagnose issues
+* Having weird issues with ultrasonics at anagles
+* Having threading issues
 
+* ### What I/we learned:
 * WORK ON SOFTWARE AHEAD OF TIME!!!!!!!!
+
 * Do not use ultrasonic sensors at angles
-*  Fully designing the robot in CAD was very useful
+* Fully designing the robot in CAD was very useful
 * Versa valve works great
 * Pololu motors are nice
 * Encoders should have a dedicated signal processor
 * encoders are useful
 * PIDS are great except when they dont work
 * The BNO055 was not particularly accurate
-
-
+* Have everything working before the competition 
+* Test all sensors before hand
 
 -lmr
-
-
 
