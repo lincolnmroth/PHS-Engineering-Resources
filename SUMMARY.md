@@ -43,10 +43,6 @@
 * [Boxbot](robotics/boxbot.md)
 * [HBot](robotics/hbot.md)
 
-## Projects
-
-* [Fuck Charlie](projects/fuck-charlie.md)
-
 ## Science Olympiad
 
 * Hovercraft
@@ -70,4 +66,3 @@
 * [hackPHS](organization/hackathons.md)
 * [PHSCRC](organization/PHSCRC.md)
 * [Science Olympiad Building](organization/science-olympiad.md)
-
