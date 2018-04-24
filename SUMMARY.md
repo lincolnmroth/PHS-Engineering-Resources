@@ -60,9 +60,15 @@
 * Solar Vehicle
   * [2018](scioly/Solar/solar-vehicle-2018.md)
 
+## Projects
+
+* hackerbot
+* Letter day traffic light
+
 ## Organization
 
 * [Introduction](organization/introduction.md)
 * [hackPHS](organization/hackathons.md)
 * [PHSCRC](organization/PHSCRC.md)
 * [Science Olympiad Building](organization/science-olympiad.md)
+
