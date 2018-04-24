@@ -41,11 +41,10 @@
 * T-Cubed
 * Wall-E
 * [Boxbot](robotics/boxbot.md)
-* [HBot](robotics/hbot.md)
 
 ## Science Olympiad
 
-* Hovercraft
+* [Hovercraft](science-olympiad/hovercraft.md)
   * [2018](scioly/Hovercraft/hovercraft-2018.md)
 * Mission Possible
   * [2018](scioly/Mission/mission-2018.md)
@@ -64,6 +63,7 @@
 
 * hackerbot
 * Letter day traffic light
+* [HBot](robotics/hbot.md)
 
 ## Organization
 
