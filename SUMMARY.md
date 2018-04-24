@@ -61,7 +61,7 @@
 
 ## Projects
 
-* hackerbot
+* [hackerbot](robotics/hackerbot.md)
 * Letter day traffic light
 * [HBot](robotics/hbot.md)
 
