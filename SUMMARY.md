@@ -13,6 +13,7 @@
   * [Control System](general-resources/robotics/control-system.md)
   * [Power System](general-resources/robotics/power-system.md)
   * [Communication System](general-resources/robotics/communication-system.md)
+  * [Software System](general-resources/robotics/software-system.md)
 * [Electronics](general-resources/electronics/introduction.md)
   * [Basic Circuits](general-resources/electronics/basic-circuits.md)
   * [Wire](general-resources/electronics/wire.md)
@@ -37,7 +38,7 @@
 ## Robotics
 
 * [Ogrebot](robotics/ogrebot.md)
-* LockLAN
+* [LockLAN](robotics/locklan.md)
 * T-Cubed
 * Wall-E
 * [Boxbot](robotics/boxbot.md)
@@ -62,13 +63,6 @@
 ## Projects
 
 * [hackerbot](robotics/hackerbot.md)
-* Letter day traffic light
+* [Letter day traffic light](robotics/letter-day-traffic-light.md)
 * [HBot](robotics/hbot.md)
-
-## Organization
-
-* [Introduction](organization/introduction.md)
-* [hackPHS](organization/hackathons.md)
-* [PHSCRC](organization/PHSCRC.md)
-* [Science Olympiad Building](organization/science-olympiad.md)
 

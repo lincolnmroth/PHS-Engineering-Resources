@@ -30,6 +30,7 @@ Color sensors measure colors
 
 Knowing if the robot is being touched in any way is useful for knowing if it hit something or not.
 
-
-
 Apologies for this section being pretty dinky, but I'll go into more detail in the electronics article.
+
+-lmr
+
