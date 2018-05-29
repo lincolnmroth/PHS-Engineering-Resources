@@ -164,7 +164,5 @@ I could have an entire article on pneumatics, but as this is meant to be for Hig
 
 ## PIDs
 
-[PIDs](https://en.wikipedia.org/wiki/PID_controller) \(Proportional Integral Derivative\) is a feedback loop algorithm that can be used for many different application in robotics. For example, it is used in drones to stay level. It takes inputs from an IMU and then outputs to the motors to compensate. 
-
-
+[PIDs](https://en.wikipedia.org/wiki/PID_controller) \(Proportional Integral Derivative\) is a feedback loop algorithm that can be used for many different application in robotics. For example, it is used in drones to stay level. It takes inputs from an IMU and then outputs to the motors to compensate. I'd recommennd finding a library to do this for you, but if you need more info, I could talk to you about control theory all day.
 
