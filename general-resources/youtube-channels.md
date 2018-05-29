@@ -11,6 +11,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [Becky Stern](https://www.youtube.com/channel/UCsI_41SZafKtB5qE46WjlQQ) does a lot of creative electronics projects, pretty education, has good guides on how she did her projects \(I think she works for instructables\)
 
   * [EEVblog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ\) is by far the best electronics youtube channel, very high level, long videos but extremely educational
+
   * [Electroboom](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA\) is another one of the top electronics youtube channels, manages to be very educational while also being very funny and easy to understand
   * [Make:](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg\) is a making magazine but also has some great youtube content
   * [Mouser](https://www.youtube.com/channel/UCIxuz3jvLybsnmhk06wN-kg\) is a major electronics manufacturer and has some cool videos with Grant Imahara in them
@@ -19,6 +20,8 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [The ben heck show](https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA\) is a show where Ben Heck builds electronics, I’m not a huge fan of the channel, but they occasionaly have some interesting videos
   * [The hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ\) is an all around making channel that makes things from movies real
   * [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw) is probably my favorite channel on youtube. He’s really funny and occasionally educational\)
+  * [Arrow](https://www.youtube.com/channel/UCPyQ-SpXmUVEyEzC_4s4pQA) electronics is another major electronics manufacturer and has solid videos
+  * * 
 * ##### 3D Printing
 
   * [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ), is a great channel for getting into 3d Printing, hes not very techincal but he’s very entertaining
@@ -36,6 +39,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [Pressreset](https://www.youtube.com/channel/UCYfOQDGx24ZWrE-EUv_jSdw) is a 3d printiing youtuber that focuses on lower end 3d printers
   * [Thomas Sanladerer](https://www.youtube.com/channel/UCb8Rde3uRL1ohROUVg46h1A) is by far the best 3d printing youtuber, his content is amazing, educational, and entertaining
   * [Tom’s Live](https://www.youtube.com/channel/UCzUgJrG-w_KQexroYkJR9XQ) is thomas sanladerers livestream channel, where occasionaly you can catch him building a 3d printinter or doing something else awesome
+  * [Gear down for what](https://www.youtube.com/channel/UCERyl8JwFJuCISJfcnpCvwA) does a lot of gear 3d printing and some robotics/maker projects
 * ##### Flight \(mainly rc\)
 
   * [David Windestal](https://www.youtube.com/channel/UC16hCs7XeniFuoJq0hm_-EA) former mad scientist of flitetest, does a lot with tricopters
@@ -53,6 +57,8 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [RotorRiot](https://www.youtube.com/channel/UCemG3VoNCmjP8ucHR2YY7hw) is the flitetest of quadcopter \(it was created by the same guy\)
 
   * [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA), it’s spaceX, really doesn’t need a description
+
+  * [AJW](https://www.youtube.com/channel/UCO5rDX076WdkJE9T9U5y5JQ) does some cool rc videos, he likes to make stuff from movies \(star wars\) 
 * ##### Woodworking
 
   * [ILTMS/I like to make stuff](https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw) is by far the best woodworking channel on youtube, he makes some awesome stuff, very educational and very easy for anyone to understand what he is doing
@@ -60,7 +66,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [Make something](https://www.youtube.com/user/DrunkenWoodworker/videos) is a good channel for woodworking
 
   * Peter brown  makes some awesome stuff and does some all around making not just woodworking
-* ##### Machining/CNC
+* ##### Machining/CNC/Laser cutting
 
   * [Clickspring](https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA) machines clock parts, really cool
 
@@ -69,9 +75,14 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [NYCCNC](https://www.youtube.com/channel/UCe0IyK4ntgdPTTjsxjvyHPg) is the best cnc youtube channel, very educational
 
   * [Tormach](https://www.youtube.com/channel/UCWnQHSxw6cbxYsSQXhBcbQg) is a company that makes CNC mills that are pretty affordable for CNC standards \(Entry level machine is 4k\) but they also have some educational videos
+
+  * [FSL](https://www.youtube.com/channel/UCEq3boI3lBW0A34xm7yt4RA) is the company that makes the laser cutter we have, and they have good resources on that
 * ##### CAD
 
   * ##### [Makers muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg) who I also put in 3d printing has some amazing tutorials on how to use Fusion360
+  * [Altium](https://legacy.gitbook.com/book/lincolnmroth/phs-engineering-resources/edit#) is the best \(completely my opinion\) ECAD software, and has some good info on ECAD
+
+  * [Lars christensen](https://www.youtube.com/channel/UCo29kn3d9ziFUZGZ50VKvWA) is the best resource on fusion360 \(he works for autodesk\)
 * ##### Robotics
 
   * [Boston Dynamics](https://www.youtube.com/channel/UC7vVhkEfw4nOGp8TyDk7RcQ) makes some awesome robots, not particularly educational, but amazing
@@ -93,9 +104,15 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) is the queen of shitty robots, and thats what she builds. Fairly educational, very funny
 
   * Not a youtube channel but [Charles Guan's blog](http://www.etotheipiplusone.net/) is amazing, and I would highly recommend reading it.
+
+  * [Chris Odom](https://www.youtube.com/channel/UC18PG4C1AbRXNfd4lcFGUaw) is a teacher at the george school and does a lot with Patton Robotics
+
+  * [Jamison Go](https://www.youtube.com/channel/UCEICLbchRADLm20BJA5whDQ) is a legendary combat robot builder, recently graduated MIT, and is captain of SawBlaze which is a part of Team G3 robotics
 * ##### Computer building
 
   * [Linus tech tips](https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw) is a huge channel that has great videos about building computers
+* **Mechanics**
+  * [Chain bear f1](https://www.youtube.com/channel/UC7u-Dg0jb7g9s7XjmtJrtpg) has good videos about f1 racing and the tech/mechanics/physics behind everything
 
 #### **Software:**
 
@@ -135,9 +152,11 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 
 * [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA) has some good science videos
 
-**            
+* [Good inventions](https://www.youtube.com/channel/UCoQBtJ24OUqB4O285xp9ZrQ) is a pretty funny general making channel
+
+**              
 **
 
-**            
+**              
 **
 
