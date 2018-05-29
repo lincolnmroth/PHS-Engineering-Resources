@@ -18,4 +18,5 @@ Making breakout boards is a very good idea, they allow a large organized bundle 
 
 Sliprings allow wiring to go through a roational joint.
 
-![](/assets/slipring.png)
+![](/assets/slipring.png)-lmr
+

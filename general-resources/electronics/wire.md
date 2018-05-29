@@ -98,11 +98,9 @@ Dupont connectors are great because they plug into breadboards very nicely. Also
 
 ![](/assets/dupont.png)
 
-
-
 ### Powerpole
 
-Power pole connectors are frequently used in high power cases. They are used in combat robotics and also in FRC \(I hate FRC. It's terrible. Nothing is worse\) 
+Power pole connectors are frequently used in high power cases. They are used in combat robotics and also in FRC \(I hate FRC. It's terrible. Nothing is worse\)
 
 ![](/assets/powerpole.png)
 
@@ -132,7 +130,7 @@ D-sub is the category of connectors that vga cables fall under. They are also fo
 
 ### Molex
 
-Molex sucks. Don't use it. It's frequently used for cheap computer fans. 
+Molex sucks. Don't use it. It's frequently used for cheap computer fans.
 
 ![](/assets/molex.png)
 
@@ -160,7 +158,7 @@ USB B is for peripherals such as printers and arduino uno's:
 
 ![](/assets/usbb.png)
 
-#### USB micro a and b 
+#### USB micro a and b
 
 micro USB is what is found on most android phones and some smaller arduinos:
 
@@ -184,5 +182,5 @@ USB C is great. It's just pretty new, but it is the future. It's making it's way
 
 ![](/assets/usb c.png)
 
-
+-lmr
 

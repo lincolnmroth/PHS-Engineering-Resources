@@ -81,3 +81,6 @@ The last option I'll touch on are BLDC, or Brushless DC Motors. These are the be
 [Heres how they work](https://www.youtube.com/watch?v=bCEiOnuODac)
 
 [Heres an article on them](https://www.roboticstomorrow.com/article/2016/10/brushless-motors-whats-the-big-difference/9025/)
+
+-lmr
+

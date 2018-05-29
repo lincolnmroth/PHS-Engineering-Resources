@@ -4,7 +4,7 @@ Here’s a list of facebook groups for anyone \(scioly, crc, om, anybody who wan
 
 One of the things you may realize is that there are a lot of owner’s groups. I still recommend joining just to lurk and see what people are up to in those groups.
 
-Also make sure you read the pinned post in all groups you join. Many of these groups are very strict and you will be banned if you do not follow the rules.**  
+Also make sure you read the pinned post in all groups you join. Many of these groups are very strict and you will be banned if you do not follow the rules.**    
 **
 
 #### PHS Groups:
@@ -32,7 +32,6 @@ Also make sure you read the pinned post in all groups you join. Many of these gr
   * [Electronics experimenters](https://www.facebook.com/groups/157058830992098) is a group where people experminet with electronics
 
   * [Arduino enthusiasts](https://www.facebook.com/groups/115736705849317) is a group of arduino enthusiasts
-
 * ##### 3D Printing
 
   * [3D Printing](https://www.facebook.com/groups/makerbot/) is the largest 3D printing fb groups and has some great discussions
@@ -88,11 +87,9 @@ Also make sure you read the pinned post in all groups you join. Many of these gr
 * ##### Woodworking
 
   * [ILTMS](https://www.facebook.com/groups/iliketomakestuff/) is a group where people show off what they built
-
 * ##### Machining/CNC
 
   * [V1Engineering.com](https://www.facebook.com/groups/MPCNC/) is a group of people who build the MPCNC which is a Mostly \(3d\) Printed CNC mill
-
 * ##### Laser Cutting
 
   * [K40 laser cutter machine group](https://www.facebook.com/groups/1594446007532785/) is a group where people talk about the K40, an affordable laser cutter
@@ -117,7 +114,6 @@ Also make sure you read the pinned post in all groups you join. Many of these gr
 * ##### CAD
 
   * [Solidworks](https://www.facebook.com/groups/44567511623) is a discussion group about solidworks
-
 * ##### Robotics
 
   * [Combat Robots](https://www.facebook.com/groups/RobotCombat/) is a group focused on combat robots and it’s really a great group
@@ -158,7 +154,6 @@ Also make sure you read the pinned post in all groups you join. Many of these gr
   * [HH CTF](https://www.facebook.com/groups/hhctf) is a discussion groups for ctf’s
 
   * [Information security](https://www.facebook.com/groups/773334272725281) is a discussion group about information security
-
 * ##### Hackathons
 
   * [Hackathon Hackers](https://www.facebook.com/groups/hackathonhackers) is a great group where people talk about hackathons and all things tech/cs related
@@ -172,6 +167,10 @@ Also make sure you read the pinned post in all groups you join. Many of these gr
   * [Proptarts of punished props](https://www.facebook.com/groups/theproptarts/) is a group where people replicate props from films
 
   * [The RPF/Replica Prop Forum](https://www.facebook.com/groups/therpf) is another group for prop replication
+
+-lmr
+
+
 
 
 

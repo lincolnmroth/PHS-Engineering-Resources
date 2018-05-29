@@ -127,7 +127,7 @@ Software tools are extremely helpful for designing circuits beforehand. I'll go 
 
 ### [Tinkercad circuits](https://www.tinkercad.com/circuits)
 
-I'm not really sure what my thoughts are on tinkercad circuits. I don't recommend using it for anything more than the most simple circuits, but it really is a great tool for learning electronics. It also has a pretty good simulator for simulating what your circuit will do without having to implement which is pretty cool. 
+I'm not really sure what my thoughts are on tinkercad circuits. I don't recommend using it for anything more than the most simple circuits, but it really is a great tool for learning electronics. It also has a pretty good simulator for simulating what your circuit will do without having to implement which is pretty cool.
 
 ### [Fritzing](http://fritzing.org/home/)
 
@@ -135,11 +135,19 @@ I much prefer fritzing for making stuff like wiring diagrams. It functions simil
 
 ### [EagleCAD](https://www.autodesk.com/products/eagle/overview)
 
-eagleCAD is a paid piece of software, but if you are a student you can get it for free. eagleCAD allows you to make professional schematics, but it's main feature is PCB design. PCBs, or printed circuit boards, are extremely useful when making complicated circuits. To design them, you do need a fair bit of knowledge, but sparkfun does have some good tutorials [here](https://learn.sparkfun.com/tutorials/tags/eagle). 
+eagleCAD is a paid piece of software, but if you are a student you can get it for free. eagleCAD allows you to make professional schematics, but it's main feature is PCB design. PCBs, or printed circuit boards, are extremely useful when making complicated circuits. To design them, you do need a fair bit of knowledge, but sparkfun does have some good tutorials [here](https://learn.sparkfun.com/tutorials/tags/eagle).
 
 ### [SOLIDWORKS PCB](http://smart.solidworks.com/electronics-design.html)
 
-SOLIDWORKS PCB is the best design software, but unless you are willing to "find it on the interwebs", it costs thousands of dollars, so I can't really recommend it.
+SOLIDWORKS PCB is one of best design software, but unless you are willing to "find it on the interwebs", it costs thousands of dollars, so I can't really recommend it.
+
+### ALTIUM:
+
+Altium is the best design software, but costs an insane amount of money, and I've never used it, so use at your own risk.
+
+
+
+-lmr
 
 ### 
 

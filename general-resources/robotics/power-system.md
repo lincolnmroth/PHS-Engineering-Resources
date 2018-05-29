@@ -39,3 +39,6 @@ Connectors to your batteries are useful so you can easily remove them when you w
 XT-60 is my reccomended battery connector for anything decently sized. JST is acceptable for smaller sizes, but XT-60 is always a good option.
 
 ![](/assets/xt60.png)
+
+-lmr
+

@@ -126,7 +126,13 @@ IMUs, or Inertial Measurement Units, are another one of my favorite sensors. The
 
 But IMUs are found on many other things such as rockets, airplanes, and helicopter.
 
+## Lidar
+
+Yet another type of distance sensor, LIDAR is the most accurate and best but also the most expensive. LIDAR is what is used on autonomous vehicles and those kinda things. As they have an extremely high refresh rate \(1khz or even more\) Many lidar sensors are attached to spinny things which allow them to 3 dimensionally map a space using only 1 sensor.
+
 ## Cameras
 
 Probably the most powerful sensor, but hardest to use is the camera. Y'all already know what a camera is, but using it as a sensor is very difficult. This is because you need to use computer vision. If you are doing this, I highly reccomend OpenCV, a python library for computer vision.
+
+-lmr
 

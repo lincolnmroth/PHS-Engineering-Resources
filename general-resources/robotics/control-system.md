@@ -9,3 +9,6 @@ Choosing a controller for your robot is a pretty simple task. If you do not need
 [tegra/jetson tk1](http://www.nvidia.com/object/jetson-tk1-embedded-dev-kit.html)
 
 computer
+
+-lmr
+

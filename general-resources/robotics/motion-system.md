@@ -216,3 +216,6 @@ Differentials allow for cars to turn because it allows the inner wheels to spin 
 Differentials are super cool. I'm not going to explain gear differentials since [this video](https://www.youtube.com/watch?v=yYAw79386WI) which looks like it was made 50 years ago is amazing.
 
 There are also ball differentials, which are kinda weird. [Here's](https://en.wikipedia.org/wiki/Ball_differential) the wikipedia article on them. I would not recommend, since they are very difficult, and gear differentials are much better.
+
+-lmr
+

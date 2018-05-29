@@ -13,6 +13,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [EEVblog](https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ\) is by far the best electronics youtube channel, very high level, long videos but extremely educational
 
   * [Electroboom](https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA\) is another one of the top electronics youtube channels, manages to be very educational while also being very funny and easy to understand
+
   * [Make:](https://www.youtube.com/channel/UChtY6O8Ahw2cz05PS2GhUbg\) is a making magazine but also has some great youtube content
   * [Mouser](https://www.youtube.com/channel/UCIxuz3jvLybsnmhk06wN-kg\) is a major electronics manufacturer and has some cool videos with Grant Imahara in them
   * [Sparkfun](https://www.youtube.com/user/sparkfun/videos\) another electronics manufacturer that some great educational content
@@ -21,7 +22,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
   * [The hacksmith](https://www.youtube.com/channel/UCjgpFI5dU-D1-kh9H1muoxQ\) is an all around making channel that makes things from movies real
   * [William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw) is probably my favorite channel on youtube. He’s really funny and occasionally educational\)
   * [Arrow](https://www.youtube.com/channel/UCPyQ-SpXmUVEyEzC_4s4pQA) electronics is another major electronics manufacturer and has solid videos
-  * * 
+  * \* 
 * ##### 3D Printing
 
   * [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ), is a great channel for getting into 3d Printing, hes not very techincal but he’s very entertaining
@@ -58,7 +59,7 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 
   * [SpaceX](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA), it’s spaceX, really doesn’t need a description
 
-  * [AJW](https://www.youtube.com/channel/UCO5rDX076WdkJE9T9U5y5JQ) does some cool rc videos, he likes to make stuff from movies \(star wars\) 
+  * [AJW](https://www.youtube.com/channel/UCO5rDX076WdkJE9T9U5y5JQ) does some cool rc videos, he likes to make stuff from movies \(star wars\)
 * ##### Woodworking
 
   * [ILTMS/I like to make stuff](https://www.youtube.com/channel/UC6x7GwJxuoABSosgVXDYtTw) is by far the best woodworking channel on youtube, he makes some awesome stuff, very educational and very easy for anyone to understand what he is doing
@@ -154,9 +155,13 @@ Here’s a list of youtube channels for anyone \(scioly, crc, om, anybody who wa
 
 * [Good inventions](https://www.youtube.com/channel/UCoQBtJ24OUqB4O285xp9ZrQ) is a pretty funny general making channel
 
-**              
+**              **
+
+
+
+-lmr**  
 **
 
-**              
+**                
 **
 
