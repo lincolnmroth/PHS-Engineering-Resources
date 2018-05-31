@@ -155,6 +155,8 @@ Then we see the loop\(\) which is the part of the program that does the blink. F
 
 Uploading code to the arduino can be a huge pita, but there are two main problems that I see that are very easy fixes. First you need to tell the IDE what board type you are uploading to. You select this in Tools --&gt; Boards. Secondly you need to tell the IDE which port you are uploading to, which can be found in Tools --&gt; Port. Once this is correct, if you hit upload \(and have the arduino plugged into your computer via a USB A - USB B cable\) the onboard LED should start to blink.
 
+Digital write is how you output digital signals from the arduino. This can be used for LEDs, motors, and much more, as long as it only needs to be on or off.
+
 Now let's figure out how to print \(because Hello World! is in fact mandatory, even when dealing with hardware\)
 
 To print, we have to send the data from the arduino to the computer and have the computer display the information. The was we do this is with Serial communication. I'll explain how it works in the [Communication protocols](/general-resources/electronics/communication-protocols.md) article.But here is an example program of how to print to the console.
@@ -163,10 +165,10 @@ To print, we have to send the data from the arduino to the computer and have the
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
- 
+
   This example code is in the public domain.
  */
- 
+
 // Pin 13 has an LED connected on most Arduino boards.
 // Pin 11 has the LED on Teensy 2.0
 // Pin 6  has the LED on Teensy++ 2.0
@@ -197,7 +199,55 @@ The two commands used are Serial.begin and Serial.println. Serial.println is the
 
 Next we'll learn how to get input from the real world, both using analog and digital.
 
+We'll start by learning how to read from a button, which is digital. BUT, this is NOT how you should read from buttons. You should use interrupts, which I'll go over in a bit.
 
+```
+const int buttonPin = 9;
+
+void setup() {
+  // initialize the LED pin as an output:
+  pinMode(ledPin, OUTPUT);      
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT_PULLUP);     
+}
+
+void loop(){
+  // read the state of the pushbutton value:
+  int buttonState = digitalRead(buttonPin);
+
+  // check if the pushbutton is pressed.
+  // if it is, the buttonState is HIGH:
+  if (buttonState == HIGH) {     
+    // turn LED on:    
+    digitalWrite(ledPin, HIGH);  
+  } 
+  else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW); 
+  }
+}
+```
+
+What this code does is it reads the state of buttonPin, and if it is high, turns an led on, and turns the led off if the state is low. \(I understand you can just throw a button in series with an led, this is just for demonstrational purposes.Here are a few things to take note of: digitalRead returns HIGH or LOW, but you could also use 1 or 0, or true or false. Secondly, we use Input\_pullup, because it allows us to not need resistor with the button.
+
+Now we're going to read an analog signal. As we don't know how to output analog signals \(yet\), we'll just use serial to print out the reading, but we'll do it as a percent to make it more interesting.
+
+```
+const int analogPin = A0;
+
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  reading = analogRead(analogPin);
+  percentage = map(0, 1023, 0, 100, reading);
+  Serial.print(percantage);
+  Serial.println("%");
+}
+```
 
 ## Small Computers
 
