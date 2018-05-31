@@ -249,6 +249,12 @@ void loop() {
 }
 ```
 
+We are using [map](https://www.arduino.cc/reference/en/language/functions/math/map/) which allows us to map the range 0-1023 to 0-100. analogRead always returns a value between 0 and 1023. This code could be used for reading an infrared distance sensor or something like that.
+
+Now we'll finally learn how to do analog output using PWM. 
+
+There are actually a few ways of doing this depending on your use case.
+
 ## Small Computers
 
 * Raspberry Pi
