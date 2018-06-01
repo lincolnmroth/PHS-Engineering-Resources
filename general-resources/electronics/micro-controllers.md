@@ -257,6 +257,69 @@ There are actually a few ways of doing this depending on your use case.
 
 We'll go over two ways, the analogWrite method and the Servo library. The analog write is used for outputing a constant voltage. The servo library is for controlling servos \(duh\).
 
+We'll start with analogWrite
+
+In my example, I'll use it dim an LED based off an analog input.
+
+Another thing to mention is that even though it would make sense that only analog pins can do analogWrite, that is NOT the case.  Because it uses PWM, only PWM enabled pins can use it \(PWM pins are marked with a tilda usually\)
+
+```cpp
+int inputPin = A0;
+int ledPin = 9;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(ledPin, OUTPUT)
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  inp = analogRead(inputPin);
+  out = map(0, 1023, 0, 256, inp);
+  analogWrite(ledPin, out);
+}
+```
+
+As analogWrite takes a value between 0 and 256, which is we need to map the input value.
+
+Now lets make a servo move in accordance to an analog input.
+
+```
+#include <Servo.h>
+
+int inputPin = A0;
+Servo motor;
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(ledPin, OUTPUT)
+  motor.attach(9);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  inp = analogRead(inputPin);
+  out = map(0, 1023, 1000, 2000, inp);
+  motor.writeMicroseconds(out);
+}
+```
+
+There's a fair bit of new stuff in here, so let's go over it.
+
+The first line is how we import the servo library
+
+The third line is creating an instance of the Servo object
+
+The attach line is telling the servo object which pin to use.
+
+The motor.writeMicroseconds takes a value between 1000 and 2000, you can see my [Making stuff move](/general-resources/electronics/making-stuff-move.md) article on why that is.
+
+That's most of the basic arduino stuff, so I'm just going to give you some code examples for commonly used components.
+
+I am working \(kinda almost started\) a robotics Arduino library for y'all to use. If you ask me about it, it's more likely I"ll actually do it. 
+
+
+
 ## Small Computers
 
 * Raspberry Pi
