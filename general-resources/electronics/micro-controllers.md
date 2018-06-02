@@ -384,9 +384,11 @@ Usually we code our Pi's with Python and the [RPi.GPIO](https://pypi.org/project
 
 ## Computers
 
-* PC's \(Nucs\)
+* PC's 
 
 You can use full blown computers as robot controllers, but it's unlikely you'll ever do this \(I've only done it once\). If you are using a computer you should either be good enough at coding to figure everything out yourself, OR you should use ROS \(Robot Operating System\), which I will probably go over in a software article.
+
+If you do use a PC, the Intel NUC's are a popular choice
 
 -lmr
 
