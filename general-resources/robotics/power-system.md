@@ -36,7 +36,7 @@ I do not recommend using wall power, it is dangerous, and difficult to use. If y
 
 Connectors to your batteries are useful so you can easily remove them when you want, but also they don't come unplugged accidentally.
 
-XT-60 is my reccomended battery connector for anything decently sized. JST is acceptable for smaller sizes, but XT-60 is always a good option.
+XT-60 is my reccomended battery connector for anything decently sized. JST is acceptable for smaller sizes, but XT-60 is always a good option. Actually I've started to really like phoenix connections when you're dealing with really large amperages.
 
 ![](/assets/xt60.png)
 
