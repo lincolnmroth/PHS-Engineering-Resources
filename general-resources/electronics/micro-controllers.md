@@ -6,7 +6,7 @@ Also this may be pretty long, since I'll be going over controllers which is a ve
 
 ## Types of Controllers we will go over:
 
-Here are the types of controllers we will go over. I will focus mainly on arduinos and Pi's, but I will go over as many different controllers as possible.
+Here are the types of controllers we will go over. I will focus mainly on arduinos , but I will go over as many different controllers as possible.
 
 * Micro-controllers
 * Small computers \(RPi, JETSON TK1\)
@@ -316,24 +316,77 @@ The motor.writeMicroseconds takes a value between 1000 and 2000, you can see my 
 
 That's most of the basic arduino stuff, so I'm just going to give you some code examples for commonly used components.
 
-I am working \(kinda almost started\) a robotics Arduino library for y'all to use. If you ask me about it, it's more likely I"ll actually do it. 
+I am working \(kinda almost started\) a robotics Arduino/RPi library for y'all to use. If you ask me about it, it's more likely I"ll actually do it.
 
+Ultrasonic Distance Rangers
 
+```
+*
+* Ultrasonic Sensor HC-SR04 and Arduino Tutorial
+*
+* by Dejan Nedelkovski,
+* www.HowToMechatronics.com
+*
+*/
+// defines pins numbers
+const int trigPin = 9;
+const int echoPin = 10;
+// defines variables
+long duration;
+int distance;
+
+void setup() {
+    pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output
+    pinMode(echoPin, INPUT); // Sets the echoPin as an Input
+    Serial.begin(9600); // Starts the serial communication
+}
+
+void loop() {
+    // Clears the trigPin
+    digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+    // Sets the trigPin on HIGH state for 10 micro seconds
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+    // Reads the echoPin, returns the sound wave travel time in microseconds
+    duration = pulseIn(echoPin, HIGH);
+    // Calculating the distance
+    distance= duration*0.034/2;
+    // Prints the distance on the Serial Monitor
+    Serial.print("Distance: ");
+    Serial.println(distance);
+}
+```
 
 ## Small Computers
 
 * Raspberry Pi
 * Jetson TK1
 
+If you need more power than an arduino you can go to a controller that has an OS \(operating system\) and all that. We use the Raspberry Pi a lot, but I've always wanted to try a Jetson TK1 as they are much more powerful, but they are also much pricier.
+
+As I've never actually used a Jetson \(pls get me one to play with\), I'm not going to explain how to use it, since I don't know how.
+
 ### RPi:
 
 #### Hardware:
 
+for a nice pinout of the raspberry pi, I highly recommend [http://pinout.xyz](http://pinout.xyz)
+
+![](/assets/rpi.png)
+
 #### Software:
+
+So the RPi is a full blown computer and usually runs a linux distro. If you are bad with bash, learn that.
+
+Usually we code our Pi's with Python and the [RPi.GPIO](https://pypi.org/project/RPi.GPIO/) library, but recently I've been messing with ROS and cpp, so that might change in the near future.
 
 ## Computers
 
 * PC's \(Nucs\)
+
+You can use full blown computers as robot controllers, but it's unlikely you'll ever do this \(I've only done it once\). If you are using a computer you should either be good enough at coding to figure everything out yourself, OR you should use ROS \(Robot Operating System\), which I will probably go over in a software article.
 
 -lmr
 

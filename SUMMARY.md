@@ -20,7 +20,7 @@
   * [Electrical Tools](general-resources/electronics/electrical-tools.md)
   * [Sensors](general-resources/electronics/sensors.md)
   * [Making stuff move](general-resources/electronics/making-stuff-move.md)
-  * [Micro-controllers](general-resources/electronics/micro-controllers.md)
+  * [Controllers](general-resources/electronics/micro-controllers.md)
   * [Powering your circuits](general-resources/electronics/powering-your-circuits.md)
   * [Communication protocols](general-resources/electronics/communication-protocols.md)
   * [Logic](general-resources/electronics/logic.md)

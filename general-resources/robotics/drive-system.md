@@ -2,6 +2,8 @@
 
 This is how a robot moves, and can be one of the most difficult parts of building a robot. I'll try and go through the types of drive systems, compare them, and point out what to look out for when using them.
 
+I'm going to try and keep it concise as I could talk for years about drive systems as they are my are of expertise\(speciality?  i feel kinda weird saying those as a hs student but whatver\).
+
 [Here's a powerpoint](https://www.simbotics.org/files/pdf/mobility.pdf) that talks about drive systems.
 
 [Heres](http://first.wpi.edu/Images/CMS/First/2007CON_Drive_Systems_Copioli.pdf) another one
