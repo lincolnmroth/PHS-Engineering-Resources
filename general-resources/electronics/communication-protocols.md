@@ -18,11 +18,23 @@ So serial is fairly common in consumer electronics. USB \(Universal Serial Bus\)
 
 ## [CAN](https://en.wikipedia.org/wiki/CAN_bus)
 
-Can is my absolute favorite. It's used in very high end robotics and also in many cars \(In the form of [OBDII](https://en.wikipedia.org/wiki/On-board_diagnostics)\)  
+Can is my absolute favorite. It's used in very high end robotics and also in many cars \(In the form of [OBDII](https://en.wikipedia.org/wiki/On-board_diagnostics)\)
 
 
 
+## WIFI
+
+WIFi. Our entire lives revolve around wifi, but integrating it into electronics isn't particularly simple. But some chips have made it easier. To use WIFI, either get a wifi board off of adafruit or sparkfun, or use an ESP8266.
+
+## Bluetooth
+
+There are two types of bluetooth, normal bluetooth and bluetooth low energy \(BLE\). Bluetooth is radio based, and is good for low range communication.
+
+## Infrared
+
+Don't use IR unless it's for a tv remote, then go right ahead.
 
 
 
+-lmr
 

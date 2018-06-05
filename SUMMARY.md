@@ -24,7 +24,6 @@
   * [Powering your circuits](general-resources/electronics/powering-your-circuits.md)
   * [Communication protocols](general-resources/electronics/communication-protocols.md)
   * [Logic](general-resources/electronics/logic.md)
-  * [Wireless Communication](general-resources/electronics/wireless-communication.md)
 * [3D Printing](general-resources/3d-printing.md)
 * [CAD](general-resources/cad.md)
 * [Laser Cutting](general-resources/laser-cutting.md)

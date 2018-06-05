@@ -35,11 +35,15 @@ A [buck converter](https://en.wikipedia.org/wiki/Buck_converter) allows you to c
 
 ## Power distribution:
 
-Distributing power requires no electronics \(except wires and metal\), but can be very complicated, and is always different depending on the application, and can get especially annoying if emi ever becomes a problem. 
+Distributing power requires no electronics \(except wires and metal\), but can be very complicated, and is always different depending on the application, and can get especially annoying if emi ever becomes a problem.
 
 The main rule of thumb is to centralize as much as possible. Have a single bus to distribute power if possible.
 
 ## AC Power
 
 Basically don't. AC sucks. High voltage hurts. Don't unless you absolutely have to, and if you do, please be very carful.
+
+
+
+-lmr
 
