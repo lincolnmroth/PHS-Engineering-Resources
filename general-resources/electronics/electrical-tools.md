@@ -145,8 +145,6 @@ SOLIDWORKS PCB is one of best design software, but unless you are willing to "fi
 
 Altium is the best design software, but costs an insane amount of money, and I've never used it, so use at your own risk.
 
-
-
 -lmr
 
 ### 
