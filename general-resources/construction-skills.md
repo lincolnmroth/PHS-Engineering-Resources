@@ -1,6 +1,6 @@
 # Construction skills
 
-So this is a rather broad topic. But I'll throw together random guides for whatever tools/construction methods I have experience in and try to throw in as many tips, tricks, and weird hacks I've learned over the years. 
+So this is a rather broad topic. But I'll throw together random guides for whatever tools/construction methods I have experience in and try to throw in as many tips, tricks, and weird hacks I've learned over the years.
 
 This may be one of my longest articles. So I'd probably just recommend just going to the parts you want.
 
@@ -27,11 +27,9 @@ Here are the main things I'll go over:
 
 ## Measuring
 
-The ability to measure accurately is one of the most underrated and most difficult parts of engineering. Measuring is our way of quantifying our surroundings.There are many tipes of measurement devices, but I'll only go over the common ones that you'd use.
+The ability to measure accurately is one of the most underrated and most difficult parts of engineering. Measuring is our way of quantifying our surroundings.There are many types of measurement devices, but I'll only go over the common ones that you'd use.
 
 ### Length
-
-
 
 ### Mass
 
@@ -40,8 +38,6 @@ The ability to measure accurately is one of the most underrated and most difficu
 ### Temperature
 
 ### Electricity \(Voltage, current, resistance, all that jazz\)
-
-
 
 
 
