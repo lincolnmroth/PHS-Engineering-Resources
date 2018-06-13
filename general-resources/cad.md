@@ -72,8 +72,6 @@ Because I don't want to teach CAD, I'll put some resources here.
 * OnShape has good lessons/tutorials built into the site
 * I'd mainly recommend just downloading a program and playing around with it until you figure it out, that's what I've done and I've got pretty good at CAD
 
-
-
 ## CAM
 
 CAM is the process of using a computer to generate toolpaths for a CNC machine to make. I haven't done the CNC article yet, so I'm just going to put CAM in the CNC article.
@@ -91,7 +89,7 @@ Here are the main CAE Methods:
 
 ## Finite Element Analysis:
 
-Finite element analysis is used to study objects properties such as stress using structural analysis or other properties using techniques like heat transfer. FEA allows engineers to not have to incredibly complicated math and physics. For example if you're designing a coat hanger and it needs to support 100 pounds \(lot of coats\), you could run FEA to see how strong your design is with different materials. 
+Finite element analysis is used to study objects properties such as stress using structural analysis or other properties using techniques like heat transfer. FEA allows engineers to not have to incredibly complicated math and physics. For example if you're designing a coat hanger and it needs to support 100 pounds \(lot of coats\), you could run FEA to see how strong your design is with different materials.
 
 ![](/assets/FEA.png)
 
@@ -107,5 +105,5 @@ MBD allows you to do motion studies and see how different motions affect others 
 
 ![](/assets/mbd.png)
 
-
+-lmr
 
