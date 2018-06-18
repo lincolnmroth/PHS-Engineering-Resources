@@ -55,7 +55,7 @@ I already go over Electrical tools in my [Electrical Tools article.](/general-re
 
 ## Fasteners:
 
-Basically engineering is just putting things together in different ways, and there are many ways of putting things togethers. Fasteners are great. 
+Basically engineering is just putting things together in different ways, and there are many ways of putting things togethers. Fasteners are great.
 
 ### Screws/Bolts
 
@@ -69,9 +69,9 @@ Rivets are a great more permanent solution than bolts or screws. I rarely use th
 
 ## Drills
 
-I really like drills, and I use them almost daily. As I am fairly experience, if you watch me drill it may look not look safe, but it is \(fuck you stephane\). 
+I really like drills, and I use them almost daily. As I am fairly experience, if you watch me drill it may look not look safe, but it is \(fuck you stephane\).
 
-The drill/impact driver combo we have at school is a 20v dewalt system and it's one of the best handheld drills I have used. We also have a nice bit set and impact driver bit set. Also we have a drill press in the back which is nice for drilling straight holes. 
+The drill/impact driver combo we have at school is a 20v dewalt system and it's one of the best handheld drills I have used. We also have a nice bit set and impact driver bit set. Also we have a drill press in the back which is nice for drilling straight holes.
 
 So you may think you know how to use a drill, but you probably don't. So I'll go over the different parts of a drill and how to use it. Then I'll do the same with the drill press.
 
@@ -101,13 +101,13 @@ One main difference, especially with ours, is that it does not have variable spe
 
 ## Hammers/mallets/press
 
-So the first thing you need to learn how to do with a hammer is to flip it. 
+So the first thing you need to learn how to do with a hammer is to flip it.
 
 ![](/assets/hammerflip.png)Just kidding. Mrs. Elia gets annoyed when you do that, so don't.
 
-So hammers and mallets are pretty self explanatory, but just to clarify the difference. Mallets have a rubbber or wood head, while hammers have metal heads. 
+So hammers and mallets are pretty self explanatory, but just to clarify the difference. Mallets have a rubbber or wood head, while hammers have metal heads.
 
-One similar pressing device is called a press. The most popular one \(which I'm hoping to add to the annex in the near future\) is the arbor press. 
+One similar pressing device is called a press. The most popular one \(which I'm hoping to add to the annex in the near future\) is the arbor press.
 
 ![](/assets/arborpress.png)
 
@@ -117,9 +117,8 @@ Arbor presses are used for excerting a large force on a small surface area, for 
 
 ## Grabbing tools \(pliers, vice grips, etc...\)
 
+So here are the main types of grabbing tools that I'll talk about:
 
-
+* 
 -lmr
-
-
 
