@@ -12,7 +12,7 @@ Here are the main things I'll go over:
 * Fasteners
 * Drills
 * Hammers/mallets/press
-* Grabbing tools \(pliers, vice grips, etc...\)
+* Grabbing/cutting tools \(pliers, vice grips, etc...\)
 * Glues
 * Hand saws
 * Power saws
@@ -119,8 +119,104 @@ Arbor presses are used for excerting a large force on a small surface area, for 
 
 So here are the main types of grabbing tools that I'll talk about:
 
-* 
+* Pliers \(I'll go over as many types as I can think of off the top of my head. I will miss some. Because there are infinitely many different types of pliers, I'll try to cover the common types\)
+* Vice Grips
+* Channel Locks
+* Tweezers
+* Knipex cutter
+* Tin snips
+
+## Pliers:
+
+![](/assets/genericpliers.png)Pliers come in many shapes, sizes, and varieties.
+
+The standard type \(pictured above\), are straight nose, needle nose pliers with cerated jaws. The straight nose part says that the jaws are straight, not bent like in angled nose pliers The needle nose part says that the two jaws converge to a point. The cerated jaws means that the inside of the jaws is not smooth, it has cerations \(ridges\) in it for better grabbing. There are also blunt nose, angled nose, smooth jaws and many other types of pliers, but those are the main ones of the main type.
+
+There are also specialty pliers such as c-clip pliers, e-clip pliers, and more for a variety of uses. I think I talked about c-clips and e-clips in the motion system article.
+
+## Vice grips:
+
+![](/assets/vicegrips.png)
+
+Vice grips are a type of locking-plier which can be locked in place. These are used kinda like clamps occasionally and for more stuff like that where you don't want to have to apply pressure.
+
+## Channel Locks
+
+![](/assets/channellocks.png)Channel locks are a variation on slip-joint pliers. They can give you some extra grip on things.
+
+## Tweezers:
+
+Y'all should already know what tweezers are, but there are some types that not everyone knows about. The first is ESD safe tweezers. This means that the tweezers will not give Electro Static Discharge to what you are working on. ESD safe tweezers are a must since static discharge can easily kill any electronics. Also there are non conductive tweezers \(usually ceramic\), which can be nice when working with live circuits.
+
+## Knipex Cutters
+
+Not a grabber, but didn't want to make yet another category for cutters.
+
+Knipex cutters are awesome. Knipex is a name brand, but they're cutters go through everything. They cut piano wire like butter.
+
+![](/assets/knipexcutters.png)
+
+## Tin Snips
+
+Tin snips are meant for cutting sheet metal, but they can also cut through almost anything.
+
+![](/assets/tinsnips.png)
+
+# Glues:
+
+There are many types of glues, and people misuse glues all the time. [This site \(Thistothat.com\)](http://www.thistothat.com/) is really great, it tells you what glue to use when attaching two materials together.
+
+I'll go over the main types of glue and their uses
+
+Here are the glues I'll go over
+
+* Elmers
+* Hot glue
+* Cyanoacrylate
+* Epoxy
+* E6000
+* JB Weld
+* PVA glue \(wood glue\)
+
+## Elmers:
+
+Elmers glue is stupid and useless unless you are in kindergaten. Never to be used for anything.
+
+## Hot glue
+
+Hot glue is nice and versatile, but it's also really overused. Use it in a pinch, but never plan on using hot glue, there are almost always better options.
+
+## Cyanoacrylate:
+
+Cyanoacrylate glue \(CA Glue, super glue, crazy glue\) is a high strength adhesive. There are multiple different types of CA glue of different thickness \(viscosity\). The blue is the thinnest, the purple is the middle, and the pink is the thickest.
+
+![](/assets/caglue.png)
+
+Also there is insta-set \(commonly called "The kicker"\) which instantly sets ca glue. However I don't like the smell of the kicker and it makes me sick, so my preferred instant set is standard backing soda. It also adds some material to the glue joint, adding extra strength.
+
+## Epoxy
+
+Epoxy is a pretty broad category of glues but I'm going to try to briefly go over it. Epoxy is usually two part, and once you mix the two parts together \(Do it on a piece of paper or something and mix it with a popsicle stick\). There is everything from 5 minute cure time epoxy to 24 hour epoxy. If you have the time, use 24 hour, it's so much stronger and better. But in a pinch, 5 minute epoxy should work. Epoxy is probably my favorite glue, its really strong and versatile and can be used on many different materials.
+
+## E6000
+
+E6000 is another nice type of glue. It's also pretty versatile and nice.
+
+## JB Weld
+
+JB Weld is a good glue for metals
+
+## PVA glue \(wood glue\)
+
+Wood glue is used for wood. Can't really say more than that.
+
+# Hand Saws:
+
+Saws are dangerous. Don't be stupid. Only use them if you have received tool training.
+
+Now that that is out of the way, let's start having some fun with saws.
+
+
+
 -lmr
-
-
 
