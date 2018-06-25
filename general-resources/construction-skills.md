@@ -216,6 +216,101 @@ Saws are dangerous. Don't be stupid. Only use them if you have received tool tra
 
 Now that that is out of the way, let's start having some fun with saws.
 
+Here are the three \(main\) kinds of hand saw:
+
+* Basica handsaw 
+* Coping saw
+* Hack saw
+* Bow saw
+
+## Basic handsaw
+
+This is your standard wood handsaw![](/assets/basichanddswa.png)
+
+It can be used for cutting 2x4s or really any type of wood. 
+
+## Coping Saw
+
+This simple but useful cutting tool consists of a thin blade tensioned in a C-shaped frame that uses interchangeable blades for both metal and wood. It can cut tight radiuses but perhaps its most useful feature is the ability to remove the blade and thread it through a drilled hole to cut inside profiles.
+
+![](/assets/coping saw.png)
+
+## Hack Saw
+
+This type of handsaw features a fine-toothed blade tensioned in a C-frame. Commonly used for cutting metals and plastics. Take special care to clean it when cutting aluminum, as it will often gum up on softer metals.
+
+![](/assets/hackswa.png)
+
+## Bow Saw
+
+Basically a hacksaw but with a slightly different shape.
+
+![](/assets/bowsaw.png)
+
+# Power saws
+
+Power saws are dangerous. You are not allowed to use them unless Mrs. Elia or I have given you explicit permission to do so. 
+
+Here are the types I'll go over:
+
+* Circular saw
+* Jigsaw
+* Miter\(Chop\) saw
+* Bandsaw
+* Tablesaw
+* Scrollsaw
+* Oscillating saw
+
+## Circular Saw
+
+Circular saws are used for cutting straight lines. These are usually used to rip a sheet of wood \(FYI a rip cut is parallel to the grain while a cross cut is perpendicular\) 
+
+There are two types of electric circular saws, the worm drive and the sidewinder. The worm drive saw has enough torque to cut through wet lumber and concrete. The behind-the-blade handle placement reduces kickback, and the blade’s left-side position makes it easy to see your cut line if you’re right-handed. The sidewinder’s motor, attached directly to the blade, weighs less but also has less torque.
+
+![](/assets/circularsaw.png)
+
+## Jigsaw
+
+Jigsaws are nice for making intricate cuts. They also usually have a metal and a wood blade for their respective cuts.
+
+![](/assets/jigsaw.png)
+
+## Miter Saw
+
+A chop saw is usually used for cutting planks such as a 2 by 4. A miter saw is a chop saw that can swivel to perform miter cuts which are angled cuts. Some miter saws can cut miters in multiple directions \(saw can rotate around y and z axis\).
+
+![](/assets/mitersaw.png)
+
+## Bandsaw
+
+A bandsaw is kinda like a big jigsaw. It is used for intricate cuts and can do precision work.
+
+Perhaps the most useful saw for cutting both metal and wood, this tool has loads of cutting power and runs very quiet — it won’t wake the neighbors in the middle of the night. Like jigsaws, band saws can drift if you’re not paying close attention to the line.
+
+![](/assets/bandsaw.png)
+
+## Table Saw
+
+Table saws are my least favorite kind of saw even though they are the most versatile. The reason I don't like them is because they are by far the most scary saw. When using them you are leaning into more material and you're facing a big spinning blade. We do not have a table saw but if we did \(note to future leaders of CRC\) make sure to get one with sawstop, because table saws are scary.
+
+Ripping, crosscutting, mitering, and beveling can all be accomplished using the table saw. Usually not very portable, but its versatility makes this one of the most useful tools in a shop.
+
+![](/assets/tablesaw.png)
+
+## Scroll saw
+
+A scroll saw has a very narrow blade for very intricate work. 
+
+![](/assets/scrollsaw.png)
+
+## Oscillating Saw
+
+These are kinda gimmaky and useless except maybe for like cutting drywall or something like that.
+
+# ![](/assets/oscillatingsaw.png)Router
+
+I couldn't really think of a category to put routers into, so I'll give it it's own section. 
+
 
 
 -lmr
