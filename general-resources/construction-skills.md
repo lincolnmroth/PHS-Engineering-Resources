@@ -227,7 +227,7 @@ Here are the three \(main\) kinds of hand saw:
 
 This is your standard wood handsaw![](/assets/basichanddswa.png)
 
-It can be used for cutting 2x4s or really any type of wood. 
+It can be used for cutting 2x4s or really any type of wood.
 
 ## Coping Saw
 
@@ -249,7 +249,7 @@ Basically a hacksaw but with a slightly different shape.
 
 # Power saws
 
-Power saws are dangerous. You are not allowed to use them unless Mrs. Elia or I have given you explicit permission to do so. 
+Power saws are dangerous. You are not allowed to use them unless Mrs. Elia or I have given you explicit permission to do so.
 
 Here are the types I'll go over:
 
@@ -263,7 +263,7 @@ Here are the types I'll go over:
 
 ## Circular Saw
 
-Circular saws are used for cutting straight lines. These are usually used to rip a sheet of wood \(FYI a rip cut is parallel to the grain while a cross cut is perpendicular\) 
+Circular saws are used for cutting straight lines. These are usually used to rip a sheet of wood \(FYI a rip cut is parallel to the grain while a cross cut is perpendicular\)
 
 There are two types of electric circular saws, the worm drive and the sidewinder. The worm drive saw has enough torque to cut through wet lumber and concrete. The behind-the-blade handle placement reduces kickback, and the blade’s left-side position makes it easy to see your cut line if you’re right-handed. The sidewinder’s motor, attached directly to the blade, weighs less but also has less torque.
 
@@ -285,7 +285,7 @@ A chop saw is usually used for cutting planks such as a 2 by 4. A miter saw is a
 
 A bandsaw is kinda like a big jigsaw. It is used for intricate cuts and can do precision work.
 
-Perhaps the most useful saw for cutting both metal and wood, this tool has loads of cutting power and runs very quiet — it won’t wake the neighbors in the middle of the night. Like jigsaws, band saws can drift if you’re not paying close attention to the line.
+Perhaps the most useful saw for cutting both metal and wood, this tool has loads of cutting power and runs very quiet — it won’t wake the neighbors in the middle of the night. Like jigsaws, band saws can drift if you’re not paying close attention to the line.
 
 ![](/assets/bandsaw.png)
 
@@ -299,7 +299,7 @@ Ripping, crosscutting, mitering, and beveling can all be accomplished using the 
 
 ## Scroll saw
 
-A scroll saw has a very narrow blade for very intricate work. 
+A scroll saw has a very narrow blade for very intricate work.
 
 ![](/assets/scrollsaw.png)
 
@@ -309,7 +309,13 @@ These are kinda gimmaky and useless except maybe for like cutting drywall or som
 
 # ![](/assets/oscillatingsaw.png)Router
 
-I couldn't really think of a category to put routers into, so I'll give it it's own section. 
+I couldn't really think of a category to put routers into, so I'll give it it's own section. Routers are used for removing material. 
+
+![](/assets/router.png)
+
+A router is a spinny thing for "routing" material. You can put different bits in for different jobs. For example if you want to add a fillet to a piece of wood to make it look fancy, you'd use a roundover bit. Many people also put routers on 3-axis cnc machines for routing aluminum. For example, the shapeoko and the xcarve are cnc routers. Also the shaper origin is super cool \(Google it. I tried it at NYMF 2016 and it was awesome\). 
+
+# ![](/assets/shapeoko.png)Sanding
 
 
 
