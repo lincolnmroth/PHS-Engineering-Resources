@@ -309,13 +309,59 @@ These are kinda gimmaky and useless except maybe for like cutting drywall or som
 
 # ![](/assets/oscillatingsaw.png)Router
 
-I couldn't really think of a category to put routers into, so I'll give it it's own section. Routers are used for removing material. 
+I couldn't really think of a category to put routers into, so I'll give it it's own section. Routers are used for removing material.
 
 ![](/assets/router.png)
 
-A router is a spinny thing for "routing" material. You can put different bits in for different jobs. For example if you want to add a fillet to a piece of wood to make it look fancy, you'd use a roundover bit. Many people also put routers on 3-axis cnc machines for routing aluminum. For example, the shapeoko and the xcarve are cnc routers. Also the shaper origin is super cool \(Google it. I tried it at NYMF 2016 and it was awesome\). 
+A router is a spinny thing for "routing" material. You can put different bits in for different jobs. For example if you want to add a fillet to a piece of wood to make it look fancy, you'd use a roundover bit. Many people also put routers on 3-axis cnc machines for routing aluminum. For example, the shapeoko and the xcarve are cnc routers. Also the shaper origin is super cool \(Google it. I tried it at NYMF 2016 and it was awesome\).
 
 # ![](/assets/shapeoko.png)Sanding
+
+Sanding is mostly self-explanatory. However there are a few terms y'all should know when it comes to sanding.
+
+* Grit
+* Wet vs Dry 
+* Sanding tools
+
+The grit of sander determines how much material gets removed. You want to have a very fine grit if you want a smooth surface, and a rough grit if you need to remove a lot of material.
+
+Wet sanding is sanding while wet \(duh\), this gives a really nice finish to parts. Also people use wet sands on fibrous materials \(mainly carbon fiber\) so that the dust gets caught in the water and not in your lungs \(Mesothelioma is bad. Be extremely careful when sanding CF\)
+
+Also there are many different tools for sanding:
+
+* Sandpaper
+* Sanding block
+* Orbital sander
+* Belt sander
+* Disk sander
+
+## Sandpaper:
+
+Sandpaper is just sandpaper, it's pretty self explanatory.
+
+## Sanding Block:
+
+A sanding block is sand paper attached to some sort of block \(Doesn't have to be rectangular, sometimes sanding blocks are cylindrical\) to make sanding easier.
+
+## Orbital Sander:
+
+Orbital Sanders are a type of handheld power sander. They allow for easy sanding by having a motor that moves the sanding area in an orbital pattern.
+
+![](/assets/orbitalsander.png)
+
+## Belt Sander:
+
+Belt sanders are sanders that have a sanding belt and the belt gets spun.
+
+![](/assets/beltsander.png)
+
+## Disk Sander:
+
+Disk sanders are big spinning sanding disks.
+
+![](/assets/disksander.png)
+
+# Soldering:
 
 
 
