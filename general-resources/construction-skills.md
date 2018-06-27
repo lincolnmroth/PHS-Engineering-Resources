@@ -363,6 +363,14 @@ Disk sanders are big spinning sanding disks.
 
 # Soldering:
 
+Apparently I'm terrible at explaining how to solder, so here's a video on how to do it.
+
+[https://www.youtube.com/watch?v=QKbJxytERvg](https://www.youtube.com/watch?v=QKbJxytERvg)
+
+Also here's a video on desoldering:
+
+[https://www.youtube.com/watch?v=N\_dvf45hN6Y](https://www.youtube.com/watch?v=N_dvf45hN6Y)
+
 
 
 -lmr
