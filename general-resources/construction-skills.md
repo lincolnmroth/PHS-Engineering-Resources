@@ -371,6 +371,20 @@ Also here's a video on desoldering:
 
 [https://www.youtube.com/watch?v=N\_dvf45hN6Y](https://www.youtube.com/watch?v=N_dvf45hN6Y)
 
+# Wire Handling
+
+Wires are the most fundamental part of EE, so being able to transform them to suit your needs is of the essence. The two main things you need to do are strip and crimp. Stripping wires is the process of removing the insulation from the wire to expose the conductor. To do this you use wire strippers. There are two kind, the manual and the automatic. We have both in the lab, but I am personally a fan of the manual ones, but the automatic are easier.
+
+This is what the automatic ones look like:
+
+![](/assets/automatic.png)
+
+And here the manual:
+
+![](/assets/manualstrippers.png)Sometimes you want to add connectors to wires to make them easier to remove and reconnect. This is done by crimping connectors to the ends.
+
+I go over most of them in the [Wire article. ](/general-resources/electronics/wire.md)
+
 
 
 -lmr
