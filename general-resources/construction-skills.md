@@ -1,3 +1,6 @@
+
+---
+
 # Construction skills
 
 So this is a rather broad topic. But I'll throw together random guides for whatever tools/construction methods I have experience in and try to throw in as many tips, tricks, and weird hacks I've learned over the years.
@@ -384,8 +387,6 @@ And here the manual:
 ![](/assets/manualstrippers.png)Sometimes you want to add connectors to wires to make them easier to remove and reconnect. This is done by crimping connectors to the ends.
 
 I go over most of them in the [Wire article. ](/general-resources/electronics/wire.md)
-
-
 
 -lmr
 
