@@ -386,7 +386,7 @@ And here the manual:
 
 ![](/assets/manualstrippers.png)Sometimes you want to add connectors to wires to make them easier to remove and reconnect. This is done by crimping connectors to the ends.
 
-I go over most of them in the [Wire article. ](/general-resources/electronics/wire.md)
+I go over most of them in the [Wire article. ](/general-resources/electronics/wire.md)so I won't go over them here.
 
 -lmr
 
