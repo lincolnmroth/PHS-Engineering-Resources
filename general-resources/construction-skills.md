@@ -388,5 +388,36 @@ And here the manual:
 
 I go over most of them in the [Wire article. ](/general-resources/electronics/wire.md)so I won't go over them here.
 
+# Welding:
+
+You probably won't end up welding in school \(I'm not sure G-Snydes would appreciate that\), but knowing the different types and their uses is still important. There are 4 main types of welding:
+
+* MIG \(GMAW\)
+* TIG
+* Arc \(SMAW\)
+* FCAW
+
+## MIG:
+
+In Metal Inert Gas \(MIG\) welding, \(Sometimes called gas metal arc welding \(GMAW\)\), a shielded gas is used along the wire electrode, which heats up the two metals to be joined. A constant voltage and direct current power source is required for this method, and this is the most common industrial welding process. The MIG or GMAW process is suitable for fusing mild steel, stainless-steel as well as aluminium.
+
+## TIG:
+
+A non-consumable tungsten electrode is used in TIG \(Tungsten Inert Gas\) or GTAW \(Gas Tungsten Arc Welding\). This tungsten electrode is made use of to heat the base metal and create a molten weld puddle. By melting two pieces of metal together, an autogenous weld can be created. For this type of welding, the welder needs to have a lot of expertise as it’s a very complex process. This welding process is employed to carry out high-quality work when a superior standard finish is required, without making use of excessive clean up by sanding or grinding.
+
+## Arc:
+
+Arc welding is also called as Shielded Metal Arc welding, or simply referred to as ‘Stick’. This is the most basic of all welding types. The welding stick uses electric current to form an electric arc between the stick and the metals to be joined. To weld iron and steel, this type of welding is often used in the [construction of steel structures](http://northern-weldarc.com/different-types-uses-steel-beams/) and in industrial fabrication. Stick welding can be used for manufacturing, construction and repair work.
+
+## FCAW:
+
+As an alternative to shield welding, Flux-cored Arc Welding was developed. This welding process is quite similar to MIG or GMAW process, except for the fact that in FCAW a special tubular wire filled with flux is used and shielding gas is not always needed, depending on the filler. This type of welding is well-known for being extremely inexpensive and easy to learn. However, there are several limitations in its applications and the results are not often aesthetically pleasing as some of the other welding methods. The semi-automatic arc is often used in construction projects, thanks to its high welding speed and portability.
+
+#  Machining:
+
+Machining is such a broad topic \(People spend decades working to become machinists\), but I'm going to try and go over all of it in a few paragraphs.
+
+
+
 -lmr
 
