@@ -26,9 +26,9 @@
   * [Logic](general-resources/electronics/logic.md)
 * [CAD/CAM/CAE](general-resources/cad.md)
 * [Construction Skills](general-resources/construction-skills.md)
-* [Flight](general-resources/flight.md)
 * [3D Printing](general-resources/3d-printing.md)
 * [Manufacturing](general-resources/manufacturing.md)
+* [Flight](general-resources/flight.md)
 
 ## Robotics
 

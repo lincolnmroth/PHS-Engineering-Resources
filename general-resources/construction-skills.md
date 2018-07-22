@@ -413,9 +413,49 @@ Arc welding is also called as Shielded Metal Arc welding, or simply referred to 
 
 As an alternative to shield welding, Flux-cored Arc Welding was developed. This welding process is quite similar to MIG or GMAW process, except for the fact that in FCAW a special tubular wire filled with flux is used and shielding gas is not always needed, depending on the filler. This type of welding is well-known for being extremely inexpensive and easy to learn. However, there are several limitations in its applications and the results are not often aesthetically pleasing as some of the other welding methods. The semi-automatic arc is often used in construction projects, thanks to its high welding speed and portability.
 
-#  Machining:
+# Machining:
 
 Machining is such a broad topic \(People spend decades working to become machinists\), but I'm going to try and go over all of it in a few paragraphs.
+
+Here are the main types of machining:
+
+* Drilling
+* Boring
+* Reaming
+* Milling
+* Turning
+
+Other conventional machining operations include shaping, planing, broaching and sawing. Also, grinding and similar abrasive operations are often included within the category of machining.
+
+### Drilling
+
+Drilling is used to create a round hole. It is accomplished by a rotating tool that typically has two or four helical cutting edges. The tool is fed in a direction parallel to its axis of rotation into the workpiece to form the round hole.
+
+### Boring
+
+In boring, a tool with a single bent pointed tip is advanced into a roughly made hole in a spinning workpiece to slightly enlarge the hole and improve its accuracy. It is a fine finishing operation used in the final stages of product manufacture.
+
+### Reaming
+
+Reaming is one of the sizing operations that removes a small amount of metal from a hole already drilled.
+
+### Milling
+
+Milling is the machining process of using rotary cutters to remove material\[1\] from a workpiece by advancing \(or feeding\) the cutter into the workpiece at a certain direction\[2\]. The cutter may also be held at an angle relative to the axis of the tool.\[3\] Milling covers a wide variety of different operations and machines, on scales from small individual parts to large, heavy-duty gang milling operations. It is one of the most commonly used processes for machining custom parts to precise tolerances.
+
+Milling can be done with a wide range of machine tools. The original class of machine tools for milling was the milling machine \(often called a mill\). After the advent of computer numerical control \(CNC\), milling machines evolved into machining centers: milling machines augmented by automatic tool changers, tool magazines or carousels, CNC capability, coolant systems, and enclosures. Milling centers are generally classified as vertical machining centers \(VMCs\) or horizontal machining centers \(HMCs\).
+
+### Turning
+
+In turning, a cutting tool with a single cutting edge is used to remove material from a rotating workpiece to generate a cylindrical shape. The primary motion is provided by rotating the workpiece, and the feed motion is achieved by moving the cutting tool slowly in a direction parallel to the axis of rotation of the workpiece. Turning is what is done on a lathe.
+
+# Mills:
+
+# Lathes:
+
+# CNC:
+
+# Vacuum Forming:
 
 
 
