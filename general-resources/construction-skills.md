@@ -451,13 +451,27 @@ In turning, a cutting tool with a single cutting edge is used to remove material
 
 # Mills:
 
+Mills are what are used for milling. 
+
+More coming...
+
 # Lathes:
+
+Lathes are what are used for turning.
+
+More coming ...
 
 # CNC:
 
+Computer numerical control \(CNC\) is the automation of machine tools by means of computers executing pre-programmed sequences of machine control commands. This is in contrast to machines that are manually controlled by hand wheels or levers, or mechanically automated by cams alone.
+
+In modern CNC systems, the design of a mechanical part and its manufacturing program is highly automated. The part's mechanical dimensions are defined using computer-aided design \(CAD\) software, and then translated into manufacturing directives by computer-aided manufacturing \(CAM\) software. The resulting directives are transformed \(by "post processor" software\) into the specific commands necessary for a particular machine to produce the component, and then are loaded into the CNC machine.
+
+Since any particular component might require the use of a number of different tools – drills, saws, etc. – modern machines often combine multiple tools into a single "cell". In other installations, a number of different machines are used with an external controller and human or robotic operators that move the component from machine to machine. In either case, the series of steps needed to produce any part is highly automated and produces a part that closely matches the original CAD.
+
 # Vacuum Forming:
 
-
+Vacuum forming is a simplified version of thermoforming, where a sheet of plastic is heated to a forming temperature, stretched onto a single-surface mold, and forced against the mold by a vacuum. This process can be used to form plastic into permanent objects such as turnpike signs and protective covers. Normally draft angles are present in the design of the mold \(a recommended minimum of 3°\) to ease removal of the formed plastic part from the mold.
 
 -lmr
 
