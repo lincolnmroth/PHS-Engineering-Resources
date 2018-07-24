@@ -28,7 +28,7 @@ Do not forget this step. Do not try and circumvent Lincoln \(also do not pass go
 
 ## Open Slic3r
 
-Slic3r PE is the slicing program we usually use \(unless you're using one of the makerbots which are very yuck\). It can be downloaded from prusas website, https://www.prusa3d.com/drivers/. Unzip the folder and put it into your applications folder. Then open up Slic3r. When first opening it will ask which printer configs you want. Currently \(as of July 2018\), we have a Prusa i3 MK2, MK2 MMU, and a MK3 \(and like 3 broken makerbots which may or may not ever get fixed\), all with .4mm nozzles. I do not see us getting a new printer any time soon, but getting new nozzles is completely within the realm of possibility. 
+Slic3r PE is the slicing program we usually use \(unless you're using one of the makerbots which are very yuck\). It can be downloaded from prusas website, [https://www.prusa3d.com/drivers/](https://www.prusa3d.com/drivers/). Unzip the folder and put it into your applications folder. Then open up Slic3r. When first opening it will ask which printer configs you want. Currently \(as of July 2018\), we have a Prusa i3 MK2, MK2 MMU, and a MK3 \(and like 3 broken makerbots which may or may not ever get fixed\), all with .4mm nozzles. I do not see us getting a new printer any time soon, but getting new nozzles is completely within the realm of possibility.
 
 To load objects, click add in the top left corner and select the object from your file system.
 
@@ -36,15 +36,134 @@ To load objects, click add in the top left corner and select the object from you
 
 ![](/assets/Screen Shot 2018-07-22 at 11.00.49 PM.png)
 
-## Set print setting
+## Set print settings
+
+Getting print setting right is an art. Luckily most setting have already been taken care of by Prusa. I will go over all the ones you will ever need to change and some of the other important ones.
+
+* Material
+* Infill
+* Layer Height
+* Support structures
+* Adhesion extras \(Rafts, brims, skirts\)
+* Temperatures
+* Filament size
+* Cooling
+* Perimeters
+* Seam Position
+* Custom GCODE
+
+### Material:
+
+3D printers can print with a variety of different materials. 
+
+Here are the main ones:
+
+* PLA
+* ABS
+* PETG
+* Flex \(Multiple varities\)
+* Nylon
+* Polycarbonate
+* ASA
+* HIPS
+* PVA
+* Filled/composites
+
+I'll go over the properties of the various materials and then explain how to set the printer to the desired material.
+
+#### PLA:
+
+PLA \(Polylactic acid\) is the most common \(these days, back in the early reprap era, ABS was more popular do to the fact that nobody had thought of using pla in 3d printers\) 3d printing material. It is usually the cheapest and what we use most in 242. Additionally t is very rigid and kinda brittle, but is very easy to print which is the reason for it's popularity. Plus it's biodegradable.
+
+Printing notes:
+
+Hotend temp should be between 150 and 200
+
+Bed temp should be between 0 and 60
+
+Prints great on PEI \(bed we have\). If there are any problems with adhesion, a layer of gluestick makes it stick super well.
+
+#### ABS:
+
+ABS \(Acrylonitrile butadiene styrene\) is probably \(I'm just guessing\) the most commonly used plastic in the world. It is almost always the material used in injection molded products. For example, ABS is the material used in LEGO. ABS is more flexible than PLA which makes it more impact resistant. This is the material we use \(used\) with our makerbots.
+
+Printing notes:
+
+Hotend temp should be between 200 and 230
+
+Bed temp should be between 60 and 130
+
+Prints terrible on everything that is not a heated chamber. Will warp. Always. Glue stick or buildtak helps but ABS is always a pain to print with.
+
+#### PETG
+
+PETG is relatively new to the 3D Printing landscape. It prints similarly to PLA and has properties similar to ABS. PET is what those plastic water bottles are made of
+
+Printing notes.
+
+Hotend temps 235 and 250°C.
+
+ALWAYS use a fan with PETG as it tends to cool the filament in the hot end and help with retractions.
+
+Bed temperature should be between 80-100°C .
+
+USE GLUE ON PEI, if not it will stick so bad it will rip a chunk out of the PEI.
+
+#### Flex
+
+There are also flexible 3d printing materials. There are many different types with a range of flexibilities. All the flexibles are hard to print but they all have very different settings
+
+#### Nylon
+
+Nylon is my favorite material, but sadly we don't have any filament :\(. It's a very strong material, but is extremely annoying to print with. It is very hydrophilic so it needs to be kept in an airtight container with desiccant in it. 
+
+#### PC
+
+Polycarbonate is probably the hardest material to print. It needs to be printed in an enclosure with a special hotend becuase it needs to be printed at such high temperatures.
+
+#### ASA
+
+Nobody uses asa
+
+#### HIPS
+
+HIPS is a material that prints at a similar temperature to ABS which is why it is sometimes used a dissolvable support material for ABS because it dissolves in Limonene \(not lemonade\)
+
+#### PVA
+
+PVA is a water soluble material. It is used a dissolvable support material for PLA
+
+#### Filled/composites
+
+Manufactures like adding random particles into materials for stupid properties \(glow in the dark, appearance\), but sometimes they put carbon fiber into materials to give it added strength. When printing with composite, you NEED a hardened steel nozzle or else your brass nozzle will get destroyed.
+
+### Infill
+
+
+
+### Layer height
+
+### Support
+
+### Adhesion extras
+
+### Temperatures
+
+### Filament size
+
+### Cooling
+
+### Perimeters
+
+### Seam Position
+
+### Custom GCODE
 
 ## Slice the object
 
 ## Load .gcode file onto SD card
 
 ## Print from SD Card
-
-
 
 -lmr
 
