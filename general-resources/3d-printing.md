@@ -54,7 +54,7 @@ Getting print setting right is an art. Luckily most setting have already been ta
 
 ### Material:
 
-3D printers can print with a variety of different materials. 
+3D printers can print with a variety of different materials.
 
 Here are the main ones:
 
@@ -115,7 +115,7 @@ There are also flexible 3d printing materials. There are many different types wi
 
 #### Nylon
 
-Nylon is my favorite material, but sadly we don't have any filament :\(. It's a very strong material, but is extremely annoying to print with. It is very hydrophilic so it needs to be kept in an airtight container with desiccant in it. 
+Nylon is my favorite material, but sadly we don't have any filament :\(. It's a very strong material, but is extremely annoying to print with. It is very hydrophilic so it needs to be kept in an airtight container with desiccant in it.
 
 #### PC
 
@@ -139,7 +139,25 @@ Manufactures like adding random particles into materials for stupid properties \
 
 ### Infill
 
+3D prints are not 100% solid. Instead there is what is called an infill pattern. This is an internal structure that keeps as much structural integrity as possible while reducing material cost and print time.
 
+There are different shapes of structures. Here are a few:
+
+![](/assets/infillpatterns.png)
+
+However I don't use any of these. I am a big fan of cubic infill which is 3 dimensional and is a bunch of cubes \(duh\).
+
+![](/assets/cubicInfill)
+
+Here is where you can change the infill structure:
+
+![](/assets/Screen Shot 2018-07-24 at 11.09.57 PM.png)
+
+Additionally if you want more or less strength in a part \(in exchange for more material and longer print times\) you can change the infill percentage either from the print settings tab as before, or directly from the plater tab:
+
+![](/assets/Screen Shot 2018-07-24 at 11.09.51 PM.png)
+
+You should almost never go below 20% or it will get spongy, and going over 50% is usually a waste of material. But there are always exceptions and I've had to do everything from 0% to 100%.
 
 ### Layer height
 
