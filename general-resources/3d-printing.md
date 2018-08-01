@@ -26,7 +26,7 @@ To get an .STL file, you either download it from the internet or make it yoursel
 
 Do not forget this step. Do not try and circumvent Lincoln \(also do not pass go, or collect $200\). As of the 2018-19 school year, he has authority over all of the the 3D Printers. If you do not want to ask him, you can ask Mrs. Elia, and she will ask him for you. He will likely just print the model for you, but the point of this article is to teach you about 3D Printers, so I'll go over it all.
 
-## Open Slic3r
+## Open Slic3r \(PRONOUNCEd SLICK-THREE-R\)
 
 Slic3r PE is the slicing program we usually use \(unless you're using one of the makerbots which are very yuck\). It can be downloaded from prusas website, [https://www.prusa3d.com/drivers/](https://www.prusa3d.com/drivers/). Unzip the folder and put it into your applications folder. Then open up Slic3r. When first opening it will ask which printer configs you want. Currently \(as of July 2018\), we have a Prusa i3 MK2, MK2 MMU, and a MK3 \(and like 3 broken makerbots which may or may not ever get fixed\), all with .4mm nozzles. I do not see us getting a new printer any time soon, but getting new nozzles is completely within the realm of possibility.
 
@@ -161,9 +161,39 @@ You should almost never go below 20% or it will get spongy, and going over 50% i
 
 ### Layer height
 
+Also as 3D Printing is an additive process and objects are created by layers being added on top of each other. So if you look at a 3D printed part you can distinctly see the layers in the plastic. You can make these layers smaller or larger by changing the layer height. The benefit of printing with lower layer heights is surface quality, but at the cost of time and part strength. This can be changed either via the Plater of Print settings screen. As a rule of thumb never go below 20% of the nozzle diameter or above 80 %. All of our printers currently have a .4 mm nozzle, so never go below .05 or above .35 mm.
+
+![](/assets/Screen Shot 2018-07-29 at 12.03.33 AM.png)![](/assets/Screen Shot 2018-07-29 at 10.58.50 PM.png)
+
 ### Support
 
-### Adhesion extras
+As 3D printing works by laying down layers of molten plastic. There needs to be something to put the plastic on to, as you cannot have molten plastic hover in midi air.So certain geometries of parts require sacrificial material printed underneath it to support it during the printing process.
+
+![](/assets/supports.png)
+
+First of all, whenever designing anything, try to optimize your geometries for the manufacturing process you plan on using \(Doing this is called DFM, Design for Manufacturing, which is one of the most important skills a designer can have, and requires a very intimate knowledge of the manufacturing process\). Similarly knowing when and where to add supports is extremely difficult and requires a very good knowledge of the FDM printing process. Apparently 3D Hubs has a good [article](https://www.3dhubs.com/knowledge-base/supports-3d-printing-technology-overview#fdm) here about when to use support material. 
+
+So here's how you set it up in Slic3r.
+
+You can choose support from the main plater here:
+
+![](/assets/Screen Shot 2018-07-31 at 10.20.09 PM.png)You can have it only touching the buildplate for everywhere. Here's an illustration of the difference:
+
+![](/assets/touchingbuildplatevseverywhere.png)
+
+When you select everywhere you will get this popup:
+
+![](/assets/Screen Shot 2018-07-31 at 10.20.36 PM.png)
+
+CLICK YES! This will make the supports better. What this means is that if there is a unsupported part of the print that is connected at both ends it will bridge the gap without support.
+
+There is also the full support settings which can be found here:
+
+![](/assets/Screen Shot 2018-07-31 at 10.20.21 PM.png)
+
+You'll rarely need to change any of these and if you do, the names are pretty self-explanatory.
+
+### Adhesion extras 
 
 ### Temperatures
 
